@@ -1,0 +1,2325 @@
+{
+  "settings": {
+    "name": "Spotee, the best parking app ",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.9.0",
+    "uniqCompNum": 131,
+    "versionPublish": "3.10.5",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "84px"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "text-align": "center"
+            },
+            "LABEL": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "extHeader5-1i",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/vpg7371/AppData/Local/Mobirise.com/Mobirise/projectData/img_extHeader5_bg.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/IgUQB8BqK0I?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showVideo": true,
+            "showButtons": false,
+            "showArrow": false,
+            "VideoUrl": "https://www.youtube.com/watch?v=IgUQB8BqK0I"
+          },
+          "title": "<br><span style=\"font-family: Montserrat, sans-serif; line-height: 1.1;\">EARN EXTRA MONEY</span><br>",
+          "text": "<span style=\"font-style: normal;\">with the best parking app - Spotee, park &amp; earn</span><br><span style=\"font-style: normal;\"><br></span><br>",
+          "media": {
+            "image": {
+              "src": "file:///C:/Users/vpg7371/AppData/Local/Mobirise.com/Mobirise/projectData/play-button.svg"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "youtube-play",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "#modalWindow",
+              "size": "",
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "text2": "<label class=\"startPreset\" for=\"modal\">WATCH TRAILER NOW</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-d",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "DID YOU LIKE THIS TRAILER?<br>THEN SHARE IT WITH YOUR FRIENDS"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/iphone-x-concept-template-recovered2-2000x755-20.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.9"
+          },
+          "title": "What is Spotee?<br>-----------------",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Spotee is the revolutionary application which will solve your daily problems with parking.</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Main Idea, why the app was developed is, &nbsp;that nowadays almost every family have at least 2 cars and problem with parking is more and more crucial. People are wasting often more than 15 minutes to find parking place near their houses, working places or in the downtowns. &nbsp;</span></p><p>All other apps are providing only paid parking places with high hourly rates. Until now we didn't find any service on the market, where people will inform the realtime information about free parking . Main problem is, that only few drivers are willing to provide these information for free.&nbsp;</p><p><b>In our app will meet people, which would like to find the parking place for a minimal costs and on the other side are people, they just leaving their spots and they would like to earn extra money on this.&nbsp;</b><b style=\"font-size: 1.07rem; line-height: 1.5;\">Except this main idea this app will allow you to store vehicle’s parked position. </b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">This app will combine three services: searching for parking spot; earning money with parking spot and saving position of parked car.</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/iphone-x-concept-template-recovered2-2000x755-20.jpg); padding-top: 70px; padding-bottom: 70px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(0, 0, 0);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n\t\t\t\n\t\t\t\t<h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"72\">\n\t\t\t\t\tWhy the app is developing?\n\t\t\t\t\t<br><hr>\n\t\t\t\t</h3>\n\t\t\t\t<div class=\"lead mbr-editable-full\" code-editable-id=\"73\"><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n\t\t\t\t\t</span></p><p>Main Idea, why the app is developing is, that nowadays almost every family have at least 2 cars and problem with parking is more and more crucial. People are wasting often more than 15 minutes to find parking place near their houses, working places or in the downtowns.\n\t\t\t\t\t</p><p>All other apps are providing only paid parking places with high hourly rates. Until now we didn't find any service on the market, where people will inform the realtime information about free parking . Main problem is, that only few drivers are willing to provide these information for free.</p>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<br>\n                <br>\n                <br>\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"74\">\n\t\t\t\t\tWhat is Spotee?\n\t\t\t\t\t<br><hr>\n\t\t\t\t</h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"75\"><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n\t\t\t\t\t<strong>Spotee is the revolutionary application which will solve your daily problems with parking.</strong>\n\t\t\t\t</span></p>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<p>In our app will meet people, which would like to find the parking place for a minimal costs and on the other side are people, they just leaving their spots and they would like to earn extra money on this. Except this main idea this app will allow you to store vehicle’s parked position. </p>\n\t\t\t\t<p><strong>This app will combine three services: Searching for parking spot; Earning money with parking spot and Saving position of your parked vehicle.</strong></p>\n\t\t\t\t</div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\n.mbr-section-title, p {\n\tcolor: #fff;\n}\n.lead P {\n\ttext-align: center;\n\tfont-family: 'Raleway', sans-serif;\n\tcolor: #ffffff;\n}\n.mbr-section-title {\n\tcolor: #ffffff;\n}\n\nhr\n{   \n    width:30%;\n    margin-top: 0.7em;\n    margin-bottom: 0.7em;\n    border-bottom: 1px solid #ffffff;\n    padding: 0; \n    \n}\n",
+          "_customTemplate": true,
+          "_anchor": "msg-box8-2"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            "DIV": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures1",
+          "_anchor": "extFeatures1-13",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "Use our 3 revolutionary services",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "feature_title1": "Searching service",
+          "feature_subtitle1": "",
+          "feature_text1": "Are you living or working in the area where is hard to find parking place? <br>You are driving around more than 15 minutes and still nothing.<br><br><b>Use our parking service, where you can search for realtime free parking spaces near your wished position.</b><br>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "linecons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title2": "Earning service",
+          "feature_subtitle2": "",
+          "feature_text2": "Did you park in the area, where people can't find any free parking place?<br>Are you leaving this place?<br><br><b>Use our earning service and you can earn extra money every time you leave your place.</b><br><b>You don't need to own nothing,</b><br><b>just your vehicle</b><br>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "banknote",
+              "family": "linecons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/phone-1907x2306-86.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "location",
+              "family": "linecons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title4": "Saving position service",
+          "feature_subtitle4": "",
+          "feature_text4": "Did you park your vehicle and you have problem to find him? Did you park on paying parking place and you need to back in time? Are you parking in the huge garage and you have problem to remember on which floor,section or color zone it was?<br><br><b>Use our third undependent saving position service to store your position with details and timer.</b><br>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "heart",
+              "family": "linecons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title5": "Three services, <br>which you will love and use everyday.",
+          "feature_subtitle5": "",
+          "feature_text5": "<br><br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            },
+            ".lead UL": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-h",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "HOW IT WORKS?<br>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-j",
+          "_params": {
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/01a-searching-right-1400x1176-9.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Searching service",
+          "text": "<b>How to easy find your parking spot?</b><br><br>Search for spots near your wished position.<br>Choose the best one and reserve it.<br>&nbsp;Pay agreed cash and park your vehicle.<br><br><br><b>Didn't &nbsp;you find any suitable spots?</b><br><br>Create your own request and wait for proposals.<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/02a-search-1b-2000x1333-14-2000x1333-35.jpg",
+                "image": "@PROJECT_PATH@/assets/images/02a-search-1b-2000x1333-14.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/02a-search-2b-2000x1333-54-2000x1333-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/02a-search-2b-2000x1333-54.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/02c-search-3b-2000x1333-58-2000x1333-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/02c-search-3b-2000x1333-58.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/02d-search-4b-2000x1333-38-2000x1333-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/02d-search-4b-2000x1333-38.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-k",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-g",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "MORE PEOPLE WILL KNOW THIS APP, EASIER YOU WILL FIND YOUR PARKING PLACE<br><br>PLEASE SHARE IT WITH YOUR NEIGHBOURS"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-m",
+          "_params": {
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/01b-earning-left-1400x1176-12.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Earning<br>service",
+          "text": "<b>How can you easy earn extra money?</b><br><br>Check all requests in your area.<br>Take the best one and wait for an acceptation.<br>Check the actual real position of the coming vehicle in the app until requestor drives to you.<br>Earn agreed extra cash<br><br><b>Didn't you find any suitable requests?</b><br><br>No problem create your own Spotee.with this app.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03a-earn-1-2000x1333-63-2000x1333-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/03a-earn-1-2000x1333-63.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03b-earn-2-2000x1333-11-2000x1333-13.jpg",
+                "image": "@PROJECT_PATH@/assets/images/03b-earn-2-2000x1333-11.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03c-earn-3-2000x1333-27-2000x1333-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/03c-earn-3-2000x1333-27.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03d-earn-4-2000x1333-46-2000x1333-96.jpg",
+                "image": "@PROJECT_PATH@/assets/images/03d-earn-4-2000x1333-46.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-t",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-u",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "MORE PEOPLE WILL USE APP, MORE MONEY YOU CAN EARN<br><br>PLEASE SHARE IT WITH YOUR<br>COLLEAGUES&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-p",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/01c-saving-right-1400x1176-54.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Saving Position<br>service",
+          "text": "<b>How &nbsp;to &nbsp;remember your position?</b><br><br>Save your position easy with this app.<br>&nbsp;If you need, you can store more details, such as : floor, &nbsp;zone, color of section or number.&nbsp;<br>Set the timer, if you need.<br>Navigate back to your vehicle<br><br><b>Are you leaving the parking place?</b><br><br>You can earn extra cash everytime, with our earning service.<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/04a-park-1-2000x1333-58-2000x1333-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/04a-park-1-2000x1333-58.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/04b-park-2-2000x1333-72-2000x1333-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/04b-park-2-2000x1333-72.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/04c-park-3-2000x1333-62-2000x1333-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/04c-park-3-2000x1333-62.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/04d-park-4-2000x1333-0-2000x1333-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/04d-park-4-2000x1333-0.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-v",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-s",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "MORE PEOPLE WILL KNOW IT, MORE PEOPLE WILL HELP.<br><br>PLEASE SHARE IT WITH EVERYBODY"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extPricingTable1",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showIcons": true,
+            "firstType": "",
+            "secondType": "",
+            "thirdType": "hidden",
+            "fourthType": "",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff;",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "How much these services costs?",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "label1": "HOT!",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "linecons",
+              "active": true,
+              "size": 0,
+              "color": "#a97c39"
+            }
+          },
+          "title1": "SEARCHING",
+          "subtitle1": "Service",
+          "currency1": "€",
+          "price1": "0",
+          "period1": "monthly",
+          "description1": "Use our parking service, where you can search for realtime free parking spaces near your wished position.<br><br>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Searching for parking Spotee</li><li class=\"list-group-item\">Creating Requests</li><li class=\"list-group-item\">Realtime information about Creators</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
+          "label2": "HOT!",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "banknote",
+              "family": "linecons",
+              "active": true,
+              "size": 0,
+              "color": "#a97b38"
+            }
+          },
+          "title2": "EARNING",
+          "subtitle2": "Service",
+          "currency2": "%",
+          "price2": "10-25",
+          "period2": "monthly",
+          "description2": "Use our earning service and you can earn extra money every time you leave your place.<br>You don't need to own nothing,&nbsp;just your vehicle.<br>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Creating parking Spotee&nbsp; &nbsp;</li><li class=\"list-group-item\">Checking Requests</li><li class=\"list-group-item\">Realtime information about Requestors</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
+          "label3": "HOT!",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title3": "PREMIUM",
+          "subtitle3": "Description",
+          "currency3": "$",
+          "price3": "10",
+          "period3": "monthly",
+          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
+          "label4": "HOT!",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "location",
+              "family": "linecons",
+              "active": true,
+              "size": 0,
+              "color": "#ab7b34"
+            }
+          },
+          "title4": "SAVING POSITION",
+          "subtitle4": "Service",
+          "currency4": "€",
+          "price4": "0",
+          "period4": "monthly",
+          "description4": "Use our third undependent saving position service to store your position with details and timer.<br><br>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Storing positions&nbsp;&nbsp;&nbsp;&nbsp;</li><li class=\"list-group-item\">Storing detailed information</li><li class=\"list-group-item\">Using timer<br></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
+          "_customCSS": ".mbr-price-figure {\n\tfont-size: 48px;\n}\n",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full extPricingTable1\" style=\"padding-top: 80px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"50\">PRICING TABLE</h3>\n                  \n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"51\">HOT!</div>\n                      <div class=\"card-title\">\n                        <span class=\"iconBg\"><span class=\"icon\"><span class=\"li_search mbr-iconfont-extFeatures2\" style=\"color: rgb(169, 124, 57);\"></span></span></span>\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"52\">SEARCHING</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"53\">Service</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"54\">€</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"55\">0</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"56\">monthly</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"57\">Use our parking service, where you can search for realtime free parking spaces near your wished position.<br><br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"58\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Searching for parking Spotee</li><li class=\"list-group-item\">Creating Requests</li><li class=\"list-group-item\">Realtime information about Creators</li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"59\">HOT!</div>\n                      <div class=\"card-title\">\n                      <span class=\"iconBg\"><span class=\"icon\"><span class=\"li_banknote mbr-iconfont-extFeatures2\" style=\"color: rgb(169, 123, 56);\"></span></span></span>\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"60\">EARNING</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"61\">Service</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"62\">%</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"63\">10-25</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"64\">monthly</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"65\">Use our earning service and you can earn extra money every time you leave your place.<br>You don't need to own nothing,&nbsp;just your vehicle.<br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"66\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Creating parking Spotee&nbsp; &nbsp;</li><li class=\"list-group-item\">Checking Requests</li><li class=\"list-group-item\">Realtime information about Requestors</li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"67\">HOT!</div>\n                      <div class=\"card-title\">\n                        <span class=\"iconBg\"><span class=\"icon\"><span class=\"li_location mbr-iconfont-extFeatures2\" style=\"color: rgb(171, 123, 52);\"></span></span></span>\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"68\">SAVING POSITION</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"69\">Service</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"70\">€</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"71\">0</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"72\">monthly</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"73\">Use our third undependent saving position service to store your position with details and timer.<br><br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"74\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Storing positions&nbsp;&nbsp;&nbsp;&nbsp;</li><li class=\"list-group-item\">Storing detailed information</li><li class=\"list-group-item\">Using timer<br></li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n          </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "extPricingTable1-22"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            },
+            ".lead UL": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1z",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Details to Earning service pricing<br>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-20",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">You can use our earning service first month without any payment,</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">If you would like to use our earning service also next month, you need to pay the fee for the previous period.&nbsp;</span><br></p><p>The fee is calculated from the amount of how much did you earn in total for previous period.</p><p>The fee rate starts from 25% until 10% and depends on total earned money with the app.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">That means, more you will use this service, less fee rate you will pay, </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Another way, how to decrease fee rate is to share this app with your friends, colleagues, relatives....&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Example of calculating monthly fee:</b></span></p><p>You used an earning service for the previous month and you earned the cash in total 20 Eur.</p><p>If you would like to use the earning service also on the next month, you need to pay only 5Eur fee (20 Eur x 25%).</p><p>All other services are totally free and you can use them, if you pay this fee, or not.</p>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader15",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            },
+            ".display-2": {
+              "font-size": "72px"
+            }
+          },
+          "_anchor": "extHeader15-2x",
+          "_params": {
+            "progress": 160,
+            "animText1": "FIND PARKING PLACE",
+            "animText2": "EARN EXTRA MONEY",
+            "animText3": "STORE PARKING POSITION",
+            "typeSpeed": 60,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader2-bg-2000x1328-38.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#000",
+            "showLogo": false,
+            "showTitle": true,
+            "showText": true,
+            "countdown": "2017/01/01",
+            "showCountdown": false,
+            "showForm": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/app-icon-v22-with-text-1400x1400-91.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br><br>",
+          "title2": "SERVICE AVAILABLE SOON!",
+          "text": "We are expecting to launch our app in the beginning of the year 2017.<br>Get notified, when Spotee app is available in the main app stores.&nbsp;",
+          "form": {
+            "action": "smarteeapps@gmail.com",
+            "alerts": {
+              "success": "Thanks for youre mail, you will be notified soon!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1y",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/app-icon-v22-with-text-128x128-7.png",
+              "width": 128,
+              "active": true,
+              "link": "www.spoteeapps..com",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Adresa</strong><br>SmarteeApps s.r.o.<br>Poniklecova 24,<br>841 07 Bratislava<br>Slovak Republic",
+          "text2": "<p><p><strong>Kontakty</strong><br>\n<a href=\"mailto:smarteeapps@gmail.com\">Email: smarteeapps@gmail.c\u001bom</a></p><p><a href=\"mailto:smarteeapps@gmail.com\" target=\"_blank\">Email: smarteeapps@gmail.com</a></p></p><p><p><a href=\"Email: smarteeapps@gmail.com\">Facebook\" facebook</a></p><br><p><br><br></p></p>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"sk.html#extHeader15-3j\">Stiahni z Android obchodu</a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"index.html#contacts1-1y\">Stiahni z iTunes obchodu</a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"index.html#contacts1-1y\">Stiahni z Windows obchodu</a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader15",
+          "_anchor": "extHeader15-3l",
+          "_params": {
+            "progress": 160,
+            "animText1": "AWESOME SITE",
+            "animText2": "PRODUCT LAUNCH",
+            "animText3": "NEW APP",
+            "typeSpeed": 60,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader15-bg.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#000",
+            "showLogo": true,
+            "showTitle": true,
+            "showText": true,
+            "countdown": "2017/01/01",
+            "showCountdown": true,
+            "showForm": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-logo-sand.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "OUR ",
+          "title2": "IS COMING SOON!",
+          "text": "Full-screen \"coming soon\"  intro with countdown, logo and animated subscribe form. Title with \"typed\" effect. Enter in any string, and watch it type at the speed you have set, backspace what it is typed, and begin a new string. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+          "form": {
+            "action": "fothomax@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3m",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\"><img src=\"@PROJECT_PATH@/assets/images/us-22.png\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\"><img src=\"@PROJECT_PATH@/assets/images/sk-22.png\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\"><img src=\"@PROJECT_PATH@/assets/images/sk-22.png\"></a></li>",
+          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"https://mobirise.com\" class=\"navbar-logo\"><img src=\"@THEME_PATH@/components/_images/logo.png\" alt=\"Mobirise\"></a>\n                        <a class=\"navbar-caption\" href=\"https://mobirise.com\">MOBIRISE</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"85\">OVERVIEW</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"86\">FEATURES</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"87\">HELP</a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"88\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-black mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"89\"><img src=\"@PROJECT_PATH@/assets/images/us-22.png\"></a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-black mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"90\"><img src=\"@PROJECT_PATH@/assets/images/sk-22.png\"></a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-black mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"91\"><img src=\"@PROJECT_PATH@/assets/images/sk-22.png\"></a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n}\n.navbar-toggler {\n\tcolor: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #ffffff;\n}\n.link, .dropdown-item {\n\tcolor: #ffffff;\n}\n.link {\n\tfont-size: 0.75rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.812rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #000000;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #000000!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #000000;\n}\n.bg-color.transparent .link {\n\tcolor: #ffffff;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #c0a375!important;\n}\n",
+          "_customTemplate": true
+        }
+      ]
+    },
+    "sk.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "84px"
+            },
+            "SPAN": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "LABEL": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "extHeader5-31",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/vpg7371/AppData/Local/Mobirise.com/Mobirise/projectData/img_extHeader5_bg.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/IgUQB8BqK0I?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showVideo": true,
+            "showButtons": false,
+            "showArrow": false,
+            "VideoUrl": "https://www.youtube.com/watch?v=IgUQB8BqK0I"
+          },
+          "title": "<br><span style=\"font-family: Montserrat, sans-serif; line-height: 1.1;\">ZARÁBAJ PARKOVANÍM</span><br>",
+          "text": "<span style=\"font-style: normal;\">s najlepšou parkovacou applikáciou - Spotee, parkuj a zarábaj</span><br><span style=\"font-style: normal;\"><br></span><br>",
+          "media": {
+            "image": {
+              "src": "file:///C:/Users/vpg7371/AppData/Local/Mobirise.com/Mobirise/projectData/play-button.svg"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "youtube-play",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "#modalWindow",
+              "size": "",
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "text2": "<label class=\"startPreset\" for=\"modal\">POZRI SI TRAILER</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_anchor": "social-buttons1-32",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "PÁČIL SA TI TENTO TRAILER?<br>PROSÍM ZDIELAJ HO S TVOJIMI PRIATEĽMI"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "30px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "@primaryColor!important"
+            },
+            ".btn": {
+              "font-size": "14px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-33",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/app-icon-v22-128x128-78.png",
+              "height": 128,
+              "alt": "Spotee",
+              "link": "index.html",
+              "title": "Spotee best parking app",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Spotee</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader5-1i\">TRAILER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-2\" aria-expanded=\"false\">ČO JE SPOTEE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-h\" aria-expanded=\"false\"><p>AKO TO FUNGUJE</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extPricingTable1-22\" aria-expanded=\"false\">CENA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader15-2x\">STIAHNI</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/iphone-x-concept-template-recovered2-2000x755-20.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.9"
+          },
+          "title": "What is Spotee?<br>-----------------",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Spotee is the revolutionary application which will solve your daily problems with parking.</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Main Idea, why the app was developed is, &nbsp;that nowadays almost every family have at least 2 cars and problem with parking is more and more crucial. People are wasting often more than 15 minutes to find parking place near their houses, working places or in the downtowns. &nbsp;</span></p><p>All other apps are providing only paid parking places with high hourly rates. Until now we didn't find any service on the market, where people will inform the realtime information about free parking . Main problem is, that only few drivers are willing to provide these information for free.&nbsp;</p><p><b>In our app will meet people, which would like to find the parking place for a minimal costs and on the other side are people, they just leaving their spots and they would like to earn extra money on this.&nbsp;</b><b style=\"font-size: 1.07rem; line-height: 1.5;\">Except this main idea this app will allow you to store vehicle’s parked position. </b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">This app will combine three services: searching for parking spot; earning money with parking spot and saving position of parked car.</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/iphone-x-concept-template-recovered2-2000x755-20.jpg); padding-top: 70px; padding-bottom: 70px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(0, 0, 0);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n\t\t\t\n\t\t\t\t<h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"176\">\n\t\t\t\t\tPrečo sa vyvája táto aplikacia?\n\t\t\t\t\t<br><hr>\n\t\t\t\t</h3>\n\t\t\t\t<div class=\"lead mbr-editable-full\" code-editable-id=\"177\"><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n\t\t\t\t\t</span></p><p>Hlavnou myšlienkou, prečo sa vyvája táto aplikácia je, že v dnešnej dobe má takmer každá rodina minimálne 2 autá a problém so zaparkovaním je stále väčší a väčší. Takže ľudia strácajú viac ako 15 minút času hľadaním parkovacieho miesta blízko ich domu, práce alebo ak chcú zaparkovať v centre mesta.\n\t\t\t\t\t</p><p>Všetky ostatné aplikácie na trhu poskytujú iba informácie o platených parkovacích miestach, ktoré sú zväčša veľmi drahé a sú s hodinovou sadzbou. Doposiaľ sme nenašli na trhu žiadnu službu, alebo aplikáciu, ktorá by informovala o aktuálnych voľnych parkovacích miestach, pretože iba veľmi málo vodičov je ochotných zdieľať tieto informácie zadarmo.</p>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<br>\n                <br>\n                <br>\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"178\">\n\t\t\t\t\tČo je Spotee?\n\t\t\t\t\t<br><hr>\n\t\t\t\t</h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"179\"><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n\t\t\t\t\t<strong>Spotee je revolučná startup aplikácia, ktorá aspoň čiastočne vyrieši každodenný problém s parkovaním.</strong>\n\t\t\t\t</span></p>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<p>V našej aplikácii sa stretávajú ľudia, kotrý hľadajú miesto na zaparkovanie za minimálny poplatok a na druhej strane sú ľudia, ktorý práve odchádzajú z ich parkovacieho miesta a chú si trochu privyrobiť zdieľaním ich miesta. Okrem týchto dvoch hlavných služieb naša aplikácia ponáka aj službu na zapamätanie si pozície svojho zaparkovaného auta. </p>\n\t\t\t\t<p><strong>Takže táto aplikácia ponáka 3 služby: Hľadanie si parkovacieho miesta; Privyrábanie si parkovním a Ukladanie si pozície zaparkovaného dopravného prostriedku.</strong></p>\n\t\t\t\t</div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\n.mbr-section-title, p {\n\tcolor: #fff;\n}\n.lead P {\n\ttext-align: center;\n\tfont-family: 'Raleway', sans-serif;\n\tcolor: #ffffff;\n}\n.mbr-section-title {\n\tcolor: #ffffff;\n}\n\nhr\n{   \n    width:30%;\n    margin-top: 0.7em;\n    margin-bottom: 0.7em;\n    border-bottom: 1px solid #ffffff;\n    padding: 0; \n    \n}\n",
+          "_customTemplate": true,
+          "_anchor": "msg-box8-34"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            "DIV": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures1",
+          "_anchor": "extFeatures1-35",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "Využi naše 3 revolučné služby",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "feature_title1": "Služba na vyhľadávanie voľného parkovacieho miesta",
+          "feature_subtitle1": "",
+          "feature_text1": "Bývaš, alebo pracuješ v časti mesta, kde je problém si nájsť voľné parkovacie miesto? <br>Musíš krúžiť aj 15 minút okolo tvoho domu aby si zaparkoval?<b><br></b><br><b>Použi našu službu na hľadania voľného parkovacieho miesta, kde nájdeš aktuálne informácie o voľných parkovacích miestach blízko tvojej želanej pozície.</b><br>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "linecons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title2": "Služba &nbsp;pre zarábanie parkovaním&nbsp;",
+          "feature_subtitle2": "",
+          "feature_text2": "Máš zaparkované vozidlo v časti mesta, kde nie je ľahké nájsť voľné miesto na zaparkovanie?<br>Plánuješ v blízkej budúcnosti opustiť toto miesto?<br><br><b>Použi našu druhú službu, kde môžeš si zarobiť extra peniaze vždy, keď opúšťaš toto miesto. Na aby si zarobil nepotrebuješ nič vlastniť, iba svoje vozidlo.</b><br><br>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "banknote",
+              "family": "linecons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/phone-1907x2306-86.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "location",
+              "family": "linecons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title4": "Služba pre uloženie si pozície svojho zaparkovaného vozidla",
+          "feature_subtitle4": "",
+          "feature_text4": "Máš problem si niekedy zapamätať kde si zaparkoval svoje vozidlo? Zaparkoval si na časovo obmedzenom parkovacom mieste a potrebuješ byť načas pri ňom? Zaparkoval si niekedy svoje vozidlo vo veľkej garážI a zabudol si na ktorom poschodí, či sekcii alebo farebnej zóne to bolo?<br><br><b>Použi našu úplne nezávislú tretiu službu, kde si môžeš ľahko uložiť svoju pozáciu aj s detailami, či časovačom.</b><br>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "heart",
+              "family": "linecons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "feature_title5": "Spotee &nbsp;- parkuj a zarábaj<br>Tri služby, ktoré &nbsp;si zamiluješ a budeš využívať každý deň<br>",
+          "feature_subtitle5": "",
+          "feature_text5": "<br><br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            },
+            ".lead UL": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-36",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "AKO TO FUNGUJE?<br>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-37",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/01a-searching-right-1400x1176-9.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Služba na hľadanie &nbsp; parkovacieho miesta&nbsp;",
+          "text": "<b>Ako si ľahko nájsť voľné parkovacie miesto?</b><br>Zadaj, kde by si chcel zaparkovať a skontroluj&nbsp;<br>na displeji všetky voľné ponuky na zaparkovanie.<br>Vyber si tú, čo ti najviac vyhovuje a zarezervuj si ju.<br>Zaplať dohodnutý poplatok a môžeš bezstarostne parkovať.<br><br><br><b>Nenašiel si žadnu ponuku, ktorá by ti vyhovovala?</b><br><br>Nevadí, vytvor si vlastnú žiadosť kde by si chcel parkovať <br>a počkaj na najlepšie ponuky.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/02a-search-1b-2000x1333-14-2000x1333-35.jpg",
+                "image": "@PROJECT_PATH@/assets/images/02a-search-1b-2000x1333-14.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/02a-search-2b-2000x1333-54-2000x1333-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/02a-search-2b-2000x1333-54.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/02c-search-3b-2000x1333-58-2000x1333-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/02c-search-3b-2000x1333-58.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/02d-search-4b-2000x1333-38-2000x1333-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/02d-search-4b-2000x1333-38.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-38",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-39",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "VIAC ĽUDÍ BUDE POZNAŤ TÚTO APLIKÁCIU, ĽAHŠIE SI NÁJDEŠ MIESTO NA ZAPARKOVANIE<br><br>PROSÍM ZDIEĽAJ TÚTO APLIKÁCIU SO SVOJIMI SUSEDMI"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3a",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/01b-earning-left-1400x1176-12.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Služba s ktorou môžeš zarábať",
+          "text": "<b>Ako si môžeš denne zarobiť extra peniaze?</b><br><br>Skontroluj všetky ponuky na zaparkovanie <br>blízko miesta kde si zaparkoval, <br>Vyber si tú, čo ti najviac vyhovuje a počkaj si na akceptáciu.<br>V aplikáciu môžeš sledovať aktuálnu polohu prichádzajúceho vozidla až pokým nepríde k tebe.<br>Počkaj si na žiadateľa obtŕž dohodnutú sumu.<br><br><b>Nenašiel si žiadnu ponuku, ktorá by ti vyhovovala?</b><br><br>Žiaden problém, vytvor si vlastnú Spotee a zarábaj.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03a-earn-1-2000x1333-63-2000x1333-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/03a-earn-1-2000x1333-63.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03b-earn-2-2000x1333-11-2000x1333-13.jpg",
+                "image": "@PROJECT_PATH@/assets/images/03b-earn-2-2000x1333-11.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03c-earn-3-2000x1333-27-2000x1333-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/03c-earn-3-2000x1333-27.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/03d-earn-4-2000x1333-46-2000x1333-96.jpg",
+                "image": "@PROJECT_PATH@/assets/images/03d-earn-4-2000x1333-46.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-3b",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-3c",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "VIACEJ ĽUDÍ BUDE POUŽÍVAŤ TÚTO APLIKÁCIU, VIACEJ PEŇAZÍ MÔŽEŠ ZAROBIŤ<br><br>PROSÍM ZDIEĽAJ TÚTO APLIKÁCIU SO SVOJIMI KOLEGAMI&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3d",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/01c-saving-right-1400x1176-54.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Služba na uloženie pozície, kde si zaparkoval",
+          "text": "<b style=\"font-size: 1.07rem; line-height: 1.5;\">Ako si ľahko uložiť svoju pozíciu?</b><br><br>Zadaj si v aplikácii kde si zaparkoval a ulož si túto pozíciu.<br>Ak potrebuješ , môžeš si uložiť aj detailnejšie informácie ako poschodie, zónu, farbu sekcie a číslo, kde si zaparkoval.<br>Nastav si časovač, aby si vedel kedy máš byť späť..<br>Máš všetko vybavné, použi navigáciu späť k svojmu vozidlu.<br><br><b>Odchádzaš zo svojho parkovacieho miesta?</b><br><br>Použi našu druhú službu a zarob si extra peniaze, <br>vždy keď odchádzaš.<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/04a-park-1-2000x1333-58-2000x1333-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/04a-park-1-2000x1333-58.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/04b-park-2-2000x1333-72-2000x1333-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/04b-park-2-2000x1333-72.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/04c-park-3-2000x1333-62-2000x1333-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/04c-park-3-2000x1333-62.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/04d-park-4-2000x1333-0-2000x1333-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/04d-park-4-2000x1333-0.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-3e",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-3f",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "VIACEJ ĽUDÍ BUDE POZNAŤ TÚTO APLIKÁCIU, VIACEJ ĽUĎOM POMÔŽE<br><br>PROSÍM ZDIEĽAJ TÚTO APLIKÁCIU SO VŠETKÝMI"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extPricingTable1",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showIcons": true,
+            "firstType": "",
+            "secondType": "",
+            "thirdType": "hidden",
+            "fourthType": "",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff;",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "How much these services costs?",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "label1": "HOT!",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "linecons",
+              "active": true,
+              "size": 0,
+              "color": "#a97c39"
+            }
+          },
+          "title1": "SEARCHING",
+          "subtitle1": "Service",
+          "currency1": "€",
+          "price1": "0",
+          "period1": "monthly",
+          "description1": "Use our parking service, where you can search for realtime free parking spaces near your wished position.<br><br>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Searching for parking Spotee</li><li class=\"list-group-item\">Creating Requests</li><li class=\"list-group-item\">Realtime information about Creators</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
+          "label2": "HOT!",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "banknote",
+              "family": "linecons",
+              "active": true,
+              "size": 0,
+              "color": "#a97b38"
+            }
+          },
+          "title2": "EARNING",
+          "subtitle2": "Service",
+          "currency2": "%",
+          "price2": "10-25",
+          "period2": "monthly",
+          "description2": "Use our earning service and you can earn extra money every time you leave your place.<br>You don't need to own nothing,&nbsp;just your vehicle.<br>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Creating parking Spotee&nbsp; &nbsp;</li><li class=\"list-group-item\">Checking Requests</li><li class=\"list-group-item\">Realtime information about Requestors</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
+          "label3": "HOT!",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title3": "PREMIUM",
+          "subtitle3": "Description",
+          "currency3": "$",
+          "price3": "10",
+          "period3": "monthly",
+          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
+          "label4": "HOT!",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "location",
+              "family": "linecons",
+              "active": true,
+              "size": 0,
+              "color": "#ab7b34"
+            }
+          },
+          "title4": "SAVING POSITION",
+          "subtitle4": "Service",
+          "currency4": "€",
+          "price4": "0",
+          "period4": "monthly",
+          "description4": "Use our third undependent saving position service to store your position with details and timer.<br><br>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Storing positions&nbsp;&nbsp;&nbsp;&nbsp;</li><li class=\"list-group-item\">Storing detailed information</li><li class=\"list-group-item\">Using timer<br></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
+          "_customCSS": ".mbr-price-figure {\n\tfont-size: 48px;\n}\n",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full extPricingTable1\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"515\">CENNÍK SLUŽIEB</h3>\n                  \n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"516\">HOT!</div>\n                      <div class=\"card-title\">\n                        <span class=\"iconBg\"><span class=\"icon\"><span class=\"li_search mbr-iconfont-extFeatures2\" style=\"color: rgb(169, 124, 57);\"></span></span></span>\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"517\">VYHĽADÁVACIA</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"518\">Služba</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"519\">€</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"520\">0</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"521\">mesačne</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"522\">Použi našu parkovaciu službu, kde môžeš vyhľadávať voľné parkovacie miesto blízko tvojej želanej pozície.<br><br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"523\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Aktuálne informácie o voľných miestach</li><li class=\"list-group-item\">Hľadanie voľného parkovacieho miesta</li><li class=\"list-group-item\">Vytváranie žiadostí na zaparkovanie</li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"524\">HOT!</div>\n                      <div class=\"card-title\">\n                      <span class=\"iconBg\"><span class=\"icon\"><span class=\"li_banknote mbr-iconfont-extFeatures2\" style=\"color: rgb(169, 123, 56);\"></span></span></span>\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"525\">ZARÁBAJÚCA</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"526\">Služba</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"527\">%</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"528\">10-25</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"529\">mesačne</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"530\">Používaj našu zarábajúcu službu a môžeš zarábať extra peniaze vždy keď opúšťaš svoje parkovaci emiesto.<br>Nepotrebuješ nič vlastnť, iba svoje vozidlo.<br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"531\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Aktuálne informácie o dopytoch na zaparkovanie</li><li class=\"list-group-item\">Vytváranie vlastných Spotee</li><li class=\"list-group-item\">Kontrolovanie žiadostí o zaparkovanie</li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"532\">HOT!</div>\n                      <div class=\"card-title\">\n                        <span class=\"iconBg\"><span class=\"icon\"><span class=\"li_location mbr-iconfont-extFeatures2\" style=\"color: rgb(171, 123, 52);\"></span></span></span>\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"533\">UKLADAJÚCA</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"534\">Služba</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"535\">€</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"536\">0</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"537\">mesačne</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"538\">Použi našu tretiu úplne nezávislú službu na ukladanie pozície zaparkovaného vozidla s detailami alebo časovačom.<br><br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"539\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Ukladanie pozície</li><li class=\"list-group-item\">Ukladanie detailných informácií</li><li class=\"list-group-item\">Používanie časovača<br></li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n          </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "extPricingTable1-3g"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            },
+            ".lead UL": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3h",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Detailné informácie o platení poplatkov za používanie služby na zarábanie<br>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-3i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Za prvý mesiac používania tejto služby vôbec neplatíš, </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ak chceš ale použiť službu aj nasledujúci mesiac, musíš najprv zaplatiť poplatok za používanie predchádzajúceho obdobia.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Pričom tento poplatok je vypočítaný z čiastky, koľko si zarobil za predchádzajúce obdobie.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Percento poplatkov začína na 25% &nbsp;a ide až po 10%. </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Toto percento zavisí od celkovej sumy koľko si zarobil s touto aplikáciou, </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">to znamená, že čím viac budeš využívať túto aplikáciu, tím nižšie percento budeš platiť.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ďaľším spôsobom ako si znížiť toto percento je, </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">že budeš zdieľať túto aplikácia so svojimi priateľmi, kolegami alebo známymi. &nbsp;&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Príklad ako sú vypočítané mesačné poplatky:</b></span></p><p>V predchádzajúcom období si využíval túto službu a celkovo si zarobil 20 Eur.</p><p>Ak chceš využívať túto službu aj ďaľší mesiac, musíš najprv zaplatiť poplatok 5 Eur (20 Eur x 25%). v úvodnej úrovni, </p><p>alebo len 2 Eura &nbsp;(20 Eur x 10%) ak už si v poslednej úrovni.</p><p>Všetky ostatné služby sú úplne zadarmo a môžeš ich využívať stále, aj keď nemáš zaplatený tento poplatok.</p>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader15",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            },
+            ".display-2": {
+              "font-size": "72px"
+            }
+          },
+          "_anchor": "extHeader15-3j",
+          "_params": {
+            "progress": 160,
+            "animText1": "NÁJDI PARKOVACIE MIESTO",
+            "animText2": "ZARÁBAJ EXTRA PENIAZE",
+            "animText3": "UKLADAJ SI POZÍCIU",
+            "typeSpeed": 60,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader2-bg-2000x1328-38.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#000",
+            "showLogo": false,
+            "showTitle": true,
+            "showText": true,
+            "countdown": "2017/01/01",
+            "showCountdown": false,
+            "showForm": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/app-icon-v22-with-text-1400x1400-91.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<br><br>",
+          "title2": "TIETO SLUŽBY UŽ ČOSKORO",
+          "text": "Aplikácia sa práva dokončuje a plánujeme ju spustiť začiatkom roka 2017.<br>Buď upozornený, keď bude naša Spotee aplikácia k dispozícii v hlavných mobilných obchodoch.&nbsp;",
+          "form": {
+            "action": "smarteeapps@gmail.com",
+            "alerts": {
+              "success": "Thanks for youre mail, you will be notified soon!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-3k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/app-icon-v22-with-text-128x128-7.png",
+              "width": 128,
+              "active": true,
+              "link": "www.spoteeapps..com",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Adresa</strong><br>SmarteeApps s.r.o.<br>Poniklecova 24,<br>841 07 Bratislava<br>Slovak Republic",
+          "text2": "<p><p><strong>Kontakty</strong><br>\n<a href=\"mailto:smarteeapps@gmail.com\">Email: smarteeapps@gmail.c\u001bom</a></p><p><a href=\"mailto:smarteeapps@gmail.com\" target=\"_blank\">Email: smarteeapps@gmail.com</a></p></p><p><p><a href=\"Email: smarteeapps@gmail.com\">Facebook\" facebook</a></p><br><p><br><br></p></p>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"sk.html#extHeader15-3j\">Stiahni z Android obchodu</a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"index.html#contacts1-1y\">Stiahni z iTunes obchodu</a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"index.html#contacts1-1y\">Stiahni z Windows obchodu</a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+        }
+      ]
+    }
+  }
+}
