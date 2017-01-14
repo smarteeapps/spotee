@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Spotee, the best parking app ",
-    "currentPage": "index.html",
+    "currentPage": "sk.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,12 +21,13 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 131,
+    "uniqCompNum": 132,
     "versionPublish": "3.10.5",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -1132,19 +1133,22 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
         },
         {
-          "_inherit": "menu",
           "_tags": [
             "Theme"
           ],
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-3m",
+          "_name": "menu",
+          "_anchor": "menu-33",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -1154,10 +1158,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/app-icon-v22-128x128-78.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "alt": "Spotee",
+              "link": "index.html",
+              "title": "Spotee best parking app",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1165,12 +1171,12 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\"><img src=\"@PROJECT_PATH@/assets/images/us-22.png\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\"><img src=\"@PROJECT_PATH@/assets/images/sk-22.png\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"https://mobirise.com/\"><img src=\"@PROJECT_PATH@/assets/images/sk-22.png\"></a></li>",
-          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"https://mobirise.com\" class=\"navbar-logo\"><img src=\"@THEME_PATH@/components/_images/logo.png\" alt=\"Mobirise\"></a>\n                        <a class=\"navbar-caption\" href=\"https://mobirise.com\">MOBIRISE</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"85\">OVERVIEW</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"86\">FEATURES</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"87\">HELP</a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"88\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-black mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"89\"><img src=\"@PROJECT_PATH@/assets/images/us-22.png\"></a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-black mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"90\"><img src=\"@PROJECT_PATH@/assets/images/sk-22.png\"></a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-black mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"91\"><img src=\"@PROJECT_PATH@/assets/images/sk-22.png\"></a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Spotee</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader5-1i\">TRAILER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-2\" aria-expanded=\"false\">WHAT IS SPOTTE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-h\" aria-expanded=\"false\"><p>HOW IT WORKS</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extPricingTable1-22\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader15-2x\">STIAHNI</a></li>",
+          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"index.html\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/app-icon-v22-128x128-78.png\" alt=\"Spotee\" title=\"Spotee best parking app\"></a>\n                        <a class=\"navbar-caption text-white\" href=\"#top\">Spotee</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#extHeader5-1i\" code-editable-id=\"679\">TRAILER</a>    \n                        </li>\n                        <li class=\"nav-item dropdown\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#msg-box8-2\" aria-expanded=\"false\" code-editable-id=\"680\">WHAT IS SPOTEE</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#msg-box8-h\" aria-expanded=\"false\" code-editable-id=\"681\">HOW IT WORKS</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#extPricingTable1-22\" aria-expanded=\"false\" code-editable-id=\"682\">PRICING</a></li>\n                        <li class=\"nav-item nav-btn\">\n                            <a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"index.html#extHeader15-2x\" code-editable-id=\"683\">DOWNLOAD</a>\n                        </li>\n                        <li style=\"margin-left:5em\"></li> \n\t\t\t\t\t\t<li class=\"nav-flags\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"684\">\n\t\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/us-22.png\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"nav-flags\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"sk.html\" code-editable-id=\"685\">\n\t\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/sk-22.png\"></a>\n\t\t\t\t\t\t</li>\n                    </ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": ".hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n}\n.navbar-toggler {\n\tcolor: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #ffffff;\n}\n.link, .dropdown-item {\n\tcolor: #ffffff;\n}\n.link {\n\tfont-size: 0.75rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.812rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #000000;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #000000!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #000000;\n}\n.bg-color.transparent .link {\n\tcolor: #ffffff;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #c0a375!important;\n}\n",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n.hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n\tfont-family: 'Roboto Slab', serif;\n\tfont-size: 30px;\n}\n.navbar-toggler {\n\tcolor: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #ffffff;\n}\n.link, .dropdown-item {\n\tcolor: #ffffff;\n\tfont-family: 'Open Sans', sans-serif;\n}\n.link {\n\tfont-size: 0.85rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.921rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #000000;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #000000!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #000000;\n}\n.bg-color.transparent .link {\n\tcolor: #ffffff;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #c0a375!important;\n}\n.btn {\n\tfont-size: 14px;\n\tfont-family: 'Open Sans', sans-serif;\n}\n .nav-dropdown .nav-flags {\n    display: table-cell;\n    float: none;\n    vertical-align: middle; }\n  .nav-dropdown-sm .nav-flags {\n    display: inline-block;\n    margin-left: 0 !important;\n    padding-left: 0; }\n  .nav-dropdown .nav-flags .link {\n    margin: 0.25em;  /*reduce this number further if needed */\n}\n",
           "_customTemplate": true
         }
       ]
@@ -1282,64 +1288,6 @@
           "text": "PÁČIL SA TI TENTO TRAILER?<br>PROSÍM ZDIELAJ HO S TVOJIMI PRIATEĽMI"
         },
         {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "30px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
-            },
-            ".btn": {
-              "font-size": "14px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
           "_tags": [
             "Theme"
           ],
@@ -1379,7 +1327,12 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Spotee</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader5-1i\">TRAILER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-2\" aria-expanded=\"false\">ČO JE SPOTEE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-h\" aria-expanded=\"false\"><p>AKO TO FUNGUJE</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extPricingTable1-22\" aria-expanded=\"false\">CENA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader15-2x\">STIAHNI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader5-1i\">TRAILER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-2\" aria-expanded=\"false\">WHAT IS SPOTTE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-h\" aria-expanded=\"false\"><p>HOW IT WORKS</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extPricingTable1-22\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader15-2x\">STIAHNI</a></li>",
+          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"index.html\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/app-icon-v22-128x128-78.png\" alt=\"Spotee\" title=\"Spotee best parking app\"></a>\n                        <a class=\"navbar-caption text-white\" href=\"#top\">Spotee</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\">\n                        <li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#extHeader5-1i\" code-editable-id=\"693\">TRAILER</a>\n                        </li>\n                        <li class=\"nav-item dropdown\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#msg-box8-2\" aria-expanded=\"false\" code-editable-id=\"694\">ČO JE SPOTEE</a>\n                        </li>\n                        <li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#msg-box8-h\" aria-expanded=\"false\" code-editable-id=\"695\">AKO TO FUNGUJE</a>\n                        </li>\n                        <li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#extPricingTable1-22\" aria-expanded=\"false\" code-editable-id=\"696\">CENNÍK</a>\n                        </li>\n                        <li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"index.html#extHeader15-2x\" code-editable-id=\"697\">STIAHNI</a>\n                        </li>\n                        <li style=\"margin-left:5em\"></li> \n\t\t\t\t\t\t<li class=\"nav-flags\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"698\">\n\t\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/us-22.png\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"nav-flags\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"sk.html\" code-editable-id=\"699\">\n\t\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/sk-22.png\"></a>\n\t\t\t\t\t\t</li>\n                    </ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n.hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n\tfont-family: 'Roboto Slab', serif;\n\tfont-size: 30px;\n}\n.navbar-toggler {\n\tcolor: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #ffffff;\n}\n.link, .dropdown-item {\n\tcolor: #ffffff;\n\tfont-family: 'Open Sans', sans-serif;\n}\n.link {\n\tfont-size: 0.85rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.921rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #000000;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #000000!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #000000;\n}\n.bg-color.transparent .link {\n\tcolor: #ffffff;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #c0a375!important;\n}\n.btn {\n\tfont-size: 14px;\n\tfont-family: 'Open Sans', sans-serif;\n}\n.nav-dropdown .nav-flags {\n    display: table-cell;\n    float: none;\n    vertical-align: middle; }\n  .nav-dropdown-sm .nav-flags {\n    display: inline-block;\n    margin-left: 0 !important;\n    padding-left: 0; }\n  .nav-dropdown .nav-flags .link {\n    margin: 0.25em;  /*reduce this number further if needed */\n}\n",
+          "_customTemplate": true
         },
         {
           "_tags": [
@@ -2270,12 +2223,12 @@
           "form": {
             "action": "smarteeapps@gmail.com",
             "alerts": {
-              "success": "Thanks for youre mail, you will be notified soon!"
+              "success": "Ďakujeme za email ,keď bude aplikácia hotová, budeme Vás informovať  !"
             },
             "fields": {
               "email": {
                 "title": "Email",
-                "customTitle": "Enter Your Email"
+                "customTitle": "Zadaj svoju emailovú adresu"
               }
             }
           },
