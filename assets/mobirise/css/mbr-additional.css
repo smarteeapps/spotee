@@ -672,6 +672,9 @@ h6,
 .extProgressBar5 .progress-primary[value]::-ms-fill {
   color: #c0a375;
 }
+.theme-border {
+  border: 1px solid #c0a375;
+}
 #extHeader5-1i H3 {
   color: #ffffff;
   font-size: 84px;
@@ -741,8 +744,37 @@ h6,
 #social-buttons3-s .btn-social {
   color: #fff;
 }
-#extPricingTable1-22 .mbr-price-figure {
-  font-size: 48px;
+#pricing-table2-3u .mbr-plan-header,
+#pricing-table2-3u .mbr-plan-body {
+  background-color: #303c4c;
+  /*#263C64;*/
+}
+#pricing-table2-3u ul,
+#pricing-table2-3u .mbr-plan-title,
+#pricing-table2-3u .mbr-price-value,
+#pricing-table2-3u .mbr-price-figure,
+#pricing-table2-3u .mbr-price-term {
+  color: #ffffff;
+}
+#pricing-table2-3u .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-3u .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#pricing-table2-3u .mbr-plan-title {
+  font-size: 32px;
+}
+#pricing-table2-3u .mbr-price-figure {
+  font-size: 72px;
+}
+#pricing-table2-3u .mbr-plan-subtitle {
+  font-size: 22px;
+  color: #28324e;
+}
+#pricing-table2-3u .mbr-plan-price-desc {
+  color: #28324e;
+  font-size: 22px;
 }
 #msg-box8-1z .mbr-section-title,
 #msg-box8-1z p {
@@ -750,6 +782,7 @@ h6,
 }
 #msg-box8-1z .mbr-section-title {
   color: #000000;
+  font-size: 32px;
 }
 #msg-box8-1z .lead P {
   color: #ffffff;
@@ -759,6 +792,31 @@ h6,
 }
 #content1-20 P {
   text-align: center;
+  color: #000000;
+}
+#header3-3x .mbr-section-title,
+#header3-3x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3x H3 {
+  font-size: 32px;
+  color: #000000;
+}
+#content1-3y P {
+  text-align: center;
+  color: #000000;
+}
+#header3-3z .mbr-section-title,
+#header3-3z .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3z H3 {
+  font-size: 32px;
+  color: #000000;
+}
+#content1-40 P {
+  text-align: center;
+  color: #000000;
 }
 #extHeader15-2x P {
   font-size: 24px;
@@ -1038,4 +1096,10 @@ h6,
 }
 #extHeader15-3j .display-2 {
   font-size: 72px;
+}
+#pricing-table1-3q .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-3q .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
 }
