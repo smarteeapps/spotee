@@ -911,6 +911,10 @@ h6,
   margin: 0.25em;
   /*reduce this number further if needed */
 }
+#social-buttons4-43 .mbr-section-title,
+#social-buttons4-43 .btn-social {
+  color: #fff;
+}
 
 
 
