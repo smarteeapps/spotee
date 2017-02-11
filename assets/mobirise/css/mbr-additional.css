@@ -10,6 +10,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -811,7 +812,7 @@ h6,
   text-align: center;
 }
 #header3-3z H3 {
-  font-size: 32px;
+  font-size: 25px;
   color: #000000;
 }
 #content1-40 P {
@@ -823,6 +824,15 @@ h6,
 }
 #extHeader15-2x .display-2 {
   font-size: 72px;
+}
+#social-buttons4-45 .mbr-section-title,
+#social-buttons4-45 .btn-social {
+  color: #fff;
+}
+#contacts1-1y P {
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 18px;
 }
 #menu-33 {
   
@@ -911,10 +921,7 @@ h6,
   margin: 0.25em;
   /*reduce this number further if needed */
 }
-#social-buttons4-43 .mbr-section-title,
-#social-buttons4-43 .btn-social {
-  color: #fff;
-}
+
 
 
 
@@ -1100,6 +1107,11 @@ h6,
 }
 #extHeader15-3j .display-2 {
   font-size: 72px;
+}
+#contacts1-3k P {
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 18px;
 }
 #pricing-table1-3q .mbr-section__container .mbr-section-title {
   color: #fff;
