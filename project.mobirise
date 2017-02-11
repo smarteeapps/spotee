@@ -46,9 +46,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "<meta property=\"og:title\" content=\"Your Description\" />\n\t<meta property=\"og:type\" content=\"website\" />\n\t<meta property=\"og:url\" content=\"http://www.yoursite.co.uk\"; />\n\t<meta property=\"og:image\" content=\"http://www.yoursite.co.uk/img/yourimage.jpg\"; />\n\t<meta property=\"og:site_name\" content=\"YourSiteName\" />\n\t<meta property=\"fb:admins\" content=\"YourID Like 999999999\" />\n\t<meta property=\"fb:app_id\" content=\"Your App ID like 555t66t656565 if applicable\" />\n\t<meta property=\"og:description\" content=\"Description for share\">",
-        "header_custom": "",
+        "title": "Spotee - park & earn, the very best parking app",
+        "meta_descr": "",
+        "header_custom": "<meta property=\"og:title\" content=\"Your Description\" />\n\t<meta property=\"og:type\" content=\"website\" />\n\t<meta property=\"og:url\" content=\"http://www.yoursite.co.uk\"; />\n\t<meta property=\"og:image\" content=\"http://www.yoursite.co.uk/img/yourimage.jpg\"; />\n\t<meta property=\"og:site_name\" content=\"YourSiteName\" />\n\t<meta property=\"fb:admins\" content=\"YourID Like 999999999\" />\n\t<meta property=\"fb:app_id\" content=\"Your App ID like 555t66t656565 if applicable\" />\n\t<meta property=\"og:description\" content=\"Description for share\">",
         "footer_custom": "",
         "html_before": ""
       },
