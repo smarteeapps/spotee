@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 145,
+    "uniqCompNum": 150,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -859,7 +859,7 @@
           "description4": "forever",
           "list4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"1048\">Simple, straightforward pricing<br></h3>\n                  <small class=\"mbr-section-subtitle mbr-editable-content\" style=\"color: rgb(40, 50, 78); font-size: 22px;\" code-editable-id=\"1049\"><br>We believe in simple and honest pricing<br></small>\n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"1050\"><span style=\"font-weight: normal;\">SEARCHING</span></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 18px;\" code-editable-id=\"1051\">Service</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"1052\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"1053\"><strong>FREE</strong></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"1054\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"1055\"><strong>forever</strong></small>\n                      </div>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"1056\"><span style=\"font-weight: normal;\">EARNING</span></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 18px;\" code-editable-id=\"1057\">Service</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"1058\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"1059\"><strong>20%</strong></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"1060\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"1061\"><strong>as service fee</strong></small>\n                      </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"1062\"><span style=\"font-weight: normal;\">SAVING POSITION</span></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 18px;\" code-editable-id=\"1063\">Service</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"1064\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"1065\"><strong>FREE</strong></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"1066\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"1067\"><strong>forever</strong></small>\n                      </div>\n                    </div>\n                </div>\n            </div>\n          </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"67\">Simple, straightforward pricing<br></h3>\n                  <small class=\"mbr-section-subtitle mbr-editable-content\" style=\"color: rgb(40, 50, 78); font-size: 22px;\" code-editable-id=\"68\"><br>We believe in simple and honest pricing<br></small>\n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"69\"><span style=\"font-weight: normal;\">SEARCHING</span></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 18px;\" code-editable-id=\"70\">Service</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"71\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"72\"><strong>FREE</strong></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"73\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"74\"><strong>forever</strong></small>\n                      </div>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"75\"><span style=\"font-weight: normal;\">EARNING</span></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 18px;\" code-editable-id=\"76\">Service</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"77\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"78\"><strong>20%</strong></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"79\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"80\"><strong>as service fee</strong></small>\n                      </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"81\"><span style=\"font-weight: normal;\">SAVING POSITION</span></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 18px;\" code-editable-id=\"82\">Service</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"83\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"84\"><strong>FREE</strong></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"85\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"86\"><strong>forever</strong></small>\n                      </div>\n                    </div>\n                </div>\n            </div>\n          </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\n.mbr-plan-header, .mbr-plan-body {\n\tbackground-color: #303c4c;/*#263C64;*/\n}\nul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term {\n\tcolor: #ffffff;\n}\n.mbr-plan {\n\tborder-color: #e8e8e8;\n}\n.mbr-plan .list-group-item {\n\tborder-color: #cfcfcf;\n}\n.mbr-plan-title {\n\tfont-size: 32px;\n}\n.mbr-price-figure {\n\tfont-size: 72px;\n}\n.mbr-plan-subtitle {\n\tfont-size: 22px;\n\tcolor: #28324e;\n}\n.mbr-plan-price-desc {\n\tcolor: #28324e;\n\tfont-size: 22px;\n}\n",
@@ -978,7 +978,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "32px",
+              "font-size": "25px",
               "color": "#000000"
             }
           },
@@ -988,7 +988,7 @@
           "_name": "header3",
           "_anchor": "header3-3z",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": false
@@ -1013,7 +1013,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">You signed up in Spotee app and automatically you received 2 Eur credit.</span><br></p><p>You created Spotee and earned 2 Eur cash from the parking spot requestor.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Service fee for this transaction is 0,40 Eur ( 2 Eur x 20%).</span></p><p>After this transaction you earned 2 Eur cash and you have still 1.6 Eur credit for the next using of earning service.</p><p>Your credit you can easy top up in the app.</p><p><br></p><p><b><br></b></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">You signed up in Spotee app and automatically you received 2 Eur credit.</span><br></p><p>You used Earning service and you earned 3 Eur cash from the parking spot requestor.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Service fee for this transaction is 0,60 Eur ( 3 Eur x 20%).</span></p><p>After this transaction you earned 3 Eur cash and you have still 1.4 Eur credit for the next using of earning service.</p><p>You can easy top up your earning credit in the app anytime.</p><p><br></p><p><b><br></b></p>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1090,14 +1090,41 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-45",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/profile.php?id=100011083213710\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCEBJRwJ9oCRc2XmD8Mf_52w\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-1y",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1123,9 +1150,17 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Address</strong><br><a href=\"http://\"><b><font color=\"#0094da\">Smartee</font><font color=\"white\">Apps s.r.o.</font></b></a><a href=\"http://\"><b><font color=\"#0094da\"></font></b></a><a href=\"http://\"><b><font color=\"#0094da\"></font></b></a><a href=\"http://\"><b><font color=\"WHITE\"></font></b></a><a href=\"http://\"><font color=\"#0094da\"><b></b></font></a><a href=\"http://\"><font color=\"BLUE\"><b></b></font></a><a href=\"http://\"><b></b></a><br>Poniklecova 24,<br>841 07 Bratislava<br>Slovak Republic</p>",
-          "text2": "<p></p><p><strong>Contacts</strong><br>\n<a href=\"mailto:smarteeapps@gmail.com\">Email: smarteeapps@gmail.com</a><a href=\"mailto:smarteeapps@gmail.com\"></a></p><p><a href=\"https://www.youtube.com/channel/UCEBJRwJ9oCRc2XmD8Mf_52w\" target=\"_blank\">SpoteeApps Youtube Channel</a><a href=\"https://www.youtube.com/channel/UCEBJRwJ9oCRc2XmD8Mf_52w\" target=\"_blank\"></a><a href=\"mailto:smarteeapps@gmail.com\" target=\"_blank\"></a></p><p></p><p></p><p><a href=\"https://www.facebook.com/profile.php?id=100011083213710\">SpoteeAppd Facebook</a><a href=\"https://www.facebook.com/profile.php?id=100011083213710\"></a><a href=\"Email: smarteeapps@gmail.com\"></a></p><br><p><br>&nbsp;&nbsp;&nbsp;&nbsp;<br></p><p></p>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"sk.html#extHeader15-3j\">Download from Android store</a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"index.html#contacts1-1y\">Download from iTunes store</a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"index.html#contacts1-1y\">Download from Windows store</a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text1": "<p><strong>Address</strong><br><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\">Smartee</font><font color=\"white\">Apps s.r.o.</font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"WHITE\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"BLUE\"></font></a><b><a href=\"http://\"></a></b><br>Poniklecova 24,<br>841 07 Bratislava<br>Slovak Republic</p>",
+          "text2": "<p></p><p><strong>Contacts</strong><br>\n<a href=\"mailto:smarteeapps@gmail.com\" class=\"text-white\">Email: smarteeapps@gmail.com</a></p><br><p><br>&nbsp;&nbsp;&nbsp;&nbsp;<br></p><p></p>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"index.html#extHeader15-2x\" class=\"text-white\">Download from Android store</a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"index.html#extHeader15-2x\" class=\"text-white\">Download from iTunes store</a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"index.html#extHeader15-2x\" class=\"text-white\">Download from Windows store</a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_tags": [
@@ -2236,8 +2271,8 @@
           "_name": "contacts1",
           "_anchor": "contacts1-3k",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2263,9 +2298,17 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Address</strong><br><a href=\"http://\"><b><font color=\"#0094da\">Smartee</font><font color=\"white\">Apps s.r.o.</font></b></a><a href=\"http://\"><b><font color=\"#0094da\"></font></b></a><a href=\"http://\"><b><font color=\"#0094da\"></font></b></a><a href=\"http://\"><b><font color=\"WHITE\"></font></b></a><a href=\"http://\"><font color=\"#0094da\"><b></b></font></a><a href=\"http://\"><font color=\"BLUE\"><b></b></font></a><a href=\"http://\"><b></b></a><br>Poniklecova 24,<br>841 07 Bratislava<br>Slovak Republic</p>",
-          "text2": "<p></p><p><strong>Contacts</strong><br>\n<a href=\"mailto:smarteeapps@gmail.com\">Email: smarteeapps@gmail.com</a><a href=\"mailto:smarteeapps@gmail.com\"></a></p><p><a href=\"https://www.youtube.com/channel/UCEBJRwJ9oCRc2XmD8Mf_52w\" target=\"_blank\">SpoteeApps Youtube Channel</a><a href=\"https://www.youtube.com/channel/UCEBJRwJ9oCRc2XmD8Mf_52w\" target=\"_blank\"></a><a href=\"mailto:smarteeapps@gmail.com\" target=\"_blank\"></a></p><p></p><p></p><p><a href=\"https://www.facebook.com/profile.php?id=100011083213710\">SpoteeAppd Facebook</a><a href=\"https://www.facebook.com/profile.php?id=100011083213710\"></a><a href=\"Email: smarteeapps@gmail.com\"></a></p><br><p><br>&nbsp;&nbsp;&nbsp;&nbsp;<br></p><p></p>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"sk.html#extHeader15-3j\">Download from Android store</a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"index.html#contacts1-1y\">Download from iTunes store</a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"index.html#contacts1-1y\">Download from Windows store</a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text1": "<p><strong>Address</strong><br><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\">Smartee</font><font color=\"white\">Apps s.r.o.</font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"WHITE\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"BLUE\"></font></a><b><a href=\"http://\"></a></b><br>Poniklecova 24,<br>841 07 Bratislava<br>Slovak Republic</p>",
+          "text2": "<p></p><p><strong>Contacts</strong><br>\n<a href=\"mailto:smarteeapps@gmail.com\" class=\"text-white\">Email: smarteeapps@gmail.com</a></p><br><p><br>&nbsp;&nbsp;&nbsp;&nbsp;<br></p><p></p>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"index.html#extHeader15-2x\" class=\"text-white\">Download from Android store</a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"index.html#extHeader15-2x\" class=\"text-white\">Download from iTunes store</a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"index.html#extHeader15-2x\" class=\"text-white\">Download from Windows store</a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_styles": {
