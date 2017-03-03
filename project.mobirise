@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 150,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 157,
+    "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
@@ -172,7 +173,7 @@
           "title": "What is Spotee?<br>-----------------",
           "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Spotee is the revolutionary application which will solve your daily problems with parking.</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Main Idea, why the app was developed is, &nbsp;that nowadays almost every family have at least 2 cars and problem with parking is more and more crucial. People are wasting often more than 15 minutes to find parking place near their houses, working places or in the downtowns. &nbsp;</span></p><p>All other apps are providing only paid parking places with high hourly rates. Until now we didn't find any service on the market, where people will inform the realtime information about free parking . Main problem is, that only few drivers are willing to provide these information for free.&nbsp;</p><p><b>In our app will meet people, which would like to find the parking place for a minimal costs and on the other side are people, they just leaving their spots and they would like to earn extra money on this.&nbsp;</b><b style=\"font-size: 1.07rem; line-height: 1.5;\">Except this main idea this app will allow you to store vehicle’s parked position. </b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">This app will combine three services: searching for parking spot; earning money with parking spot and saving position of parked car.</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/spotee-what-is-spotee-background.jpg); padding-top: 70px; padding-bottom: 70px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(0, 0, 0);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n\t\t\t\n\t\t\t\t<h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"113\">\n\t\t\t\t\tWhy is the app developing?\n\t\t\t\t\t<br><hr>\n\t\t\t\t</h3>\n\t\t\t\t<div class=\"lead mbr-editable-full\" code-editable-id=\"114\"><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n\t\t\t\t\t</span></p><p>Nowadays almost every family has at least 2 cars. Problem with parking is becomming more and more crucial. People are wasting their time - more than 15 minutes to find parking place near their homes, workplaces or in the city centers.\n\t\t\t\t\t</p><p>All other apps are providing only paid parking places with high hourly rates. According to our records there is no service on the market, where people would provide information about availability of free parking spots. Main problem is, that only few drivers are willing to provide these information for free.</p>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<br>\n                <br>\n                <br>\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"115\">\n\t\t\t\t\tWhat is Spotee?\n\t\t\t\t\t<br><hr>\n\t\t\t\t</h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"116\"><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n\t\t\t\t\t<strong>Spotee is the revolutionary application which will solve your daily problems with parking.</strong>\n\t\t\t\t</span></p>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<p>People willing to find parking places for minimal costs and people leaving parking spots wishing to earn some extra money will meet with the help of our app.</p>\n\t\t\t\t<p>Beside this main idea, the app Spotee will allow you to store vehicle's parked position.</p>\n                <p><strong>ONE APP = THREE SERVICES</strong></p>\n                <p>Spotee combines three services:</p>\n                <p>1. Searching for a parking spot\n                <br>2. Earning money with parking spot\n                <br>3. Saving position of your parked vehicle</p>\n\t\t\t\t</div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/spotee-what-is-spotee-background.jpg); padding-top: 70px; padding-bottom: 70px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(0, 0, 0);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n\t\t\t\n\t\t\t\t<h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"57\">\n\t\t\t\t\tWhy is the app developing?\n\t\t\t\t\t<br><hr>\n\t\t\t\t</h3>\n\t\t\t\t<div class=\"lead mbr-editable-full\" code-editable-id=\"58\"><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n\t\t\t\t\t</span></p><p>Nowadays almost every family has at least 2 cars. Problem with parking is becomming more and more crucial. People are wasting their time - more than 15 minutes to find parking place near their homes, workplaces or in the city centers.\n\t\t\t\t\t</p><p>All other apps are providing only paid parking places with high hourly rates. According to our records there is no service on the market, where people would provide information about availability of free parking spots. Main problem is, that only few drivers are willing to provide these information for free.</p>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<br>\n                <br>\n                <br>\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"59\">\n\t\t\t\t\tWhat is Spotee?\n\t\t\t\t\t<br><hr>\n\t\t\t\t</h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"60\"><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n\t\t\t\t\t<strong>Spotee is the revolutionary application which will solve your daily problems with parking.</strong>\n\t\t\t\t</span></p>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<p>People willing to find parking places for minimal costs and people leaving parking spots wishing to earn some extra money will meet with the help of our app.</p>\n\t\t\t\t<p>Beside this main idea, the app Spotee will allow you to store vehicle's parked position.</p>\n                <p><strong>ONE APP = THREE SERVICES</strong></p>\n                <p>Spotee combines three services:</p>\n                <p>1. Searching for a parking spot\n                <br>2. Earning money with parking spot\n                <br>3. Saving position of your parked vehicle</p>\n\t\t\t\t</div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\n.mbr-section-title, p {\n\tcolor: #fff;\n}\n.lead P {\n\ttext-align: center;\n\tfont-family: 'Raleway', sans-serif;\n\tcolor: #ffffff;\n}\n.mbr-section-title {\n\tcolor: #ffffff;\n}\n\nhr\n{   \n    width:30%;\n    margin-top: 0.7em;\n    margin-bottom: 0.7em;\n    border-bottom: 1px solid #ffffff;\n    padding: 0; \n    \n}\n",
@@ -859,7 +860,7 @@
           "description4": "forever",
           "list4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
-          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"67\">Simple, straightforward pricing<br></h3>\n                  <small class=\"mbr-section-subtitle mbr-editable-content\" style=\"color: rgb(40, 50, 78); font-size: 22px;\" code-editable-id=\"68\"><br>We believe in simple and honest pricing<br></small>\n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"69\"><span style=\"font-weight: normal;\">SEARCHING</span></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 18px;\" code-editable-id=\"70\">Service</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"71\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"72\"><strong>FREE</strong></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"73\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"74\"><strong>forever</strong></small>\n                      </div>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"75\"><span style=\"font-weight: normal;\">EARNING</span></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 18px;\" code-editable-id=\"76\">Service</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"77\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"78\"><strong>20%</strong></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"79\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"80\"><strong>as service fee</strong></small>\n                      </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"81\"><span style=\"font-weight: normal;\">SAVING POSITION</span></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 18px;\" code-editable-id=\"82\">Service</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"83\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"84\"><strong>FREE</strong></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"85\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"86\"><strong>forever</strong></small>\n                      </div>\n                    </div>\n                </div>\n            </div>\n          </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"74\">Simple, straightforward pricing<br></h3>\n                  <small class=\"mbr-section-subtitle mbr-editable-content\" style=\"color: rgb(40, 50, 78); font-size: 22px;\" code-editable-id=\"75\"><br>We believe in simple and honest pricing<br></small>\n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"76\"><span style=\"font-weight: normal;\">SEARCHING</span></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 18px;\" code-editable-id=\"77\">Service</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"78\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"79\"><strong>FREE</strong></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"80\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"81\"><strong>forever</strong></small>\n                      </div>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"82\"><span style=\"font-weight: normal;\">EARNING</span></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 18px;\" code-editable-id=\"83\">Service</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"84\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"85\"><strong>20%</strong></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"86\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"87\"><strong>as service fee</strong></small>\n                      </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"88\"><span style=\"font-weight: normal;\">SAVING POSITION</span></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 18px;\" code-editable-id=\"89\">Service</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"90\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"91\"><strong>FREE</strong></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"92\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"93\"><strong>forever</strong></small>\n                      </div>\n                    </div>\n                </div>\n            </div>\n          </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\n.mbr-plan-header, .mbr-plan-body {\n\tbackground-color: #303c4c;/*#263C64;*/\n}\nul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term {\n\tcolor: #ffffff;\n}\n.mbr-plan {\n\tborder-color: #e8e8e8;\n}\n.mbr-plan .list-group-item {\n\tborder-color: #cfcfcf;\n}\n.mbr-plan-title {\n\tfont-size: 32px;\n}\n.mbr-price-figure {\n\tfont-size: 72px;\n}\n.mbr-plan-subtitle {\n\tfont-size: 22px;\n\tcolor: #28324e;\n}\n.mbr-plan-price-desc {\n\tcolor: #28324e;\n\tfont-size: 22px;\n}\n",
@@ -927,7 +928,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Feel free to use our serching and saving position service without any additional service fee.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">For users, which would like to earn also extra money, they can use our earning service.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">We charge these users a service fee only when the spotee transaction is completed with 20% fixed amount of fee.</span></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Feel free to use our serching (1) and saving position service (3) without any additional service fee.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">For users, which would like to earn also extra money, they can use our earning service (2).</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">We charge these users a service fee only when the spotee transaction is completed with 20% fixed amount of fee.</span></p>"
         },
         {
           "_styles": {
@@ -1013,7 +1014,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">You signed up in Spotee app and automatically you received 2 Eur credit.</span><br></p><p>You used Earning service and you earned 3 Eur cash from the parking spot requestor.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Service fee for this transaction is 0,60 Eur ( 3 Eur x 20%).</span></p><p>After this transaction you earned 3 Eur cash and you have still 1.4 Eur credit for the next using of earning service.</p><p>You can easy top up your earning credit in the app anytime.</p><p><br></p><p><b><br></b></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">You signed up in Spotee app and automatically you received 2 Eur credit.</span><br></p><p>You used Earning service and you earned 3 Eur cash from the parking spot requestor.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Service fee for this transaction is 0,60 Eur ( 3 Eur x 20%).</span></p><p>After this transaction you earned 3 Eur cash and you have still 1.4 Eur credit for the next using of earning service.</p><p>You can top up your earning credit easy in the app anytime.</p><p><br></p><p><b><br></b></p>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1120,52 +1121,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-1y",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/app-icon-v22-with-text-128x128-7.png",
-              "width": 128,
-              "active": true,
-              "link": "www.spoteeapps..com",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<p><strong>Address</strong><br><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\">Smartee</font><font color=\"white\">Apps s.r.o.</font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"WHITE\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"BLUE\"></font></a><b><a href=\"http://\"></a></b><br>Poniklecova 24,<br>841 07 Bratislava<br>Slovak Republic</p>",
-          "text2": "<p></p><p><strong>Contacts</strong><br>\n<a href=\"mailto:smarteeapps@gmail.com\" class=\"text-white\">Email: smarteeapps@gmail.com</a></p><br><p><br>&nbsp;&nbsp;&nbsp;&nbsp;<br></p><p></p>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"index.html#extHeader15-2x\" class=\"text-white\">Download from Android store</a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"index.html#extHeader15-2x\" class=\"text-white\">Download from iTunes store</a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"index.html#extHeader15-2x\" class=\"text-white\">Download from Windows store</a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "18px"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "menu",
           "_params": {
             "logo": true,
@@ -1202,12 +1157,58 @@
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Spotee</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader5-1i\">TRAILER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-2\" aria-expanded=\"false\">WHAT IS SPOTTE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-h\" aria-expanded=\"false\"><p>HOW IT WORKS</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extPricingTable1-22\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader15-2x\">STIAHNI</a></li>",
-          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"index.html\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/spotee-icon-logo.png\" alt=\"Spotee\" title=\"Spotee best parking app\"></a>\n                        <a class=\"navbar-caption text-white\" href=\"#top\">Spotee</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#extHeader5-1i\" code-editable-id=\"94\">TRAILER</a>    \n                        </li>\n                        <li class=\"nav-item dropdown\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#msg-box8-2\" aria-expanded=\"false\" code-editable-id=\"95\">WHAT IS SPOTEE</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#msg-box8-h\" aria-expanded=\"false\" code-editable-id=\"96\">HOW IT WORKS</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#pricing-table2-3u\" aria-expanded=\"false\" code-editable-id=\"97\">PRICING</a></li>\n                        <li class=\"nav-item nav-btn\">\n                            <a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"index.html#extHeader15-2x\" code-editable-id=\"98\">DOWNLOAD</a>\n                        </li>\n                        <li style=\"margin-left:5em\"></li> \n\t\t\t\t\t\t<li class=\"nav-flags\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"99\">\n\t\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/us-22.png\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"nav-flags\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"sk.html\" code-editable-id=\"100\">\n\t\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/sk-22.png\"></a>\n\t\t\t\t\t\t</li>\n                    </ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"index.html\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/spotee-icon-logo.png\" alt=\"Spotee\" title=\"Spotee best parking app\"></a>\n                        <a class=\"navbar-caption text-white\" href=\"#top\">Spotee</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\">\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#extHeader5-1i\" code-editable-id=\"74\">TRAILER</a>    \n                        </li>\n                        <li class=\"nav-item dropdown\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#msg-box8-2\" aria-expanded=\"false\" code-editable-id=\"75\">WHAT IS SPOTEE</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#msg-box8-h\" aria-expanded=\"false\" code-editable-id=\"76\">HOW IT WORKS</a>\n                        </li>\n                        <li class=\"nav-item\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#pricing-table2-3u\" aria-expanded=\"false\" code-editable-id=\"77\">PRICING</a></li>\n                        <li class=\"nav-item nav-btn\">\n                            <a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"index.html#extHeader15-2x\" code-editable-id=\"78\">DOWNLOAD</a>\n                        </li>\n                        <li style=\"margin-left:5em\"></li> \n\t\t\t\t\t\t<li class=\"nav-flags\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"79\">\n\t\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/us-22.png\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"nav-flags\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"sk.html\" code-editable-id=\"80\">\n\t\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/sk-22.png\"></a>\n\t\t\t\t\t\t</li>\n                    </ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n.hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n\tfont-family: 'Roboto Slab', serif;\n\tfont-size: 30px;\n}\n.navbar-toggler {\n\tcolor: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #ffffff;\n}\n.link, .dropdown-item {\n\tcolor: #ffffff;\n\tfont-family: 'Open Sans', sans-serif;\n}\n.link {\n\tfont-size: 0.85rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.921rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #000000;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #000000!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #000000;\n}\n.bg-color.transparent .link {\n\tcolor: #ffffff;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #c0a375!important;\n}\n.btn {\n\tfont-size: 14px;\n\tfont-family: 'Open Sans', sans-serif;\n}\n .nav-dropdown .nav-flags {\n    display: table-cell;\n    float: none;\n    vertical-align: middle; }\n  .nav-dropdown-sm .nav-flags {\n    display: inline-block;\n    margin-left: 0 !important;\n    padding-left: 0; }\n  .nav-dropdown .nav-flags .link {\n    margin: 0.25em;  /*reduce this number further if needed */\n}\n",
           "_customTemplate": true,
           "_anchor": "menu-33"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "contacts1-4c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/spotee_-_park_&_earn_icon_logo-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "www.spoteeapps..com",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<p><strong>Adresa</strong><br><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\">Smartee</font><font color=\"white\">Apps s.r.o.</font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"WHITE\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"BLUE\"></font></a><b><a href=\"http://\"></a></b><br>Poniklecova 24,<br>841 07 Bratislava<br>Slovak Republic</p>",
+          "text2": "<p></p><p><strong>Kontakty</strong><br>\n<a href=\"mailto:smarteeapps@gmail.com\" class=\"text-white\">Email: smarteeapps@gmail.com</a></p><br><p><br>&nbsp;&nbsp;&nbsp;&nbsp;<br></p><p></p>",
+          "text3": "<p><strong>Linky</strong><br>\n<a href=\"index.html#extHeader15-2x\">Stiahni aplikáciu pre Android</a><a href=\"index.html#extHeader15-2x\" class=\"text-white\"></a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"index.html#extHeader15-2x\">Stiahni aplikáciu pre iPhone</a><a href=\"index.html#extHeader15-2x\" class=\"text-white\"></a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"index.html#extHeader15-2x\">Stiahni aplikáciu pre Windows</a><a href=\"index.html#extHeader15-2x\"></a><a href=\"index.html#extHeader15-2x\"></a><a href=\"index.html#extHeader15-2x\" class=\"text-white\"></a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
       ]
     },
@@ -1357,7 +1358,7 @@
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Spotee</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extHeader5-1i\">TRAILER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-2\" aria-expanded=\"false\">WHAT IS SPOTTE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-h\" aria-expanded=\"false\"><p>HOW IT WORKS</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extPricingTable1-22\" aria-expanded=\"false\">PRICING</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader15-2x\">STIAHNI</a></li>",
-          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"index.html\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/app-icon-v22-128x128-78.png\" alt=\"Spotee\" title=\"Spotee best parking app\"></a>\n                        <a class=\"navbar-caption text-white\" href=\"#top\">Spotee</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\">\n                        <li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#extHeader5-1i\" code-editable-id=\"693\">TRAILER</a>\n                        </li>\n                        <li class=\"nav-item dropdown\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#msg-box8-2\" aria-expanded=\"false\" code-editable-id=\"694\">ČO JE SPOTEE</a>\n                        </li>\n                        <li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#msg-box8-h\" aria-expanded=\"false\" code-editable-id=\"695\">AKO TO FUNGUJE</a>\n                        </li>\n                        <li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#extPricingTable1-22\" aria-expanded=\"false\" code-editable-id=\"696\">CENNÍK</a>\n                        </li>\n                        <li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"index.html#extHeader15-2x\" code-editable-id=\"697\">STIAHNI</a>\n                        </li>\n                        <li style=\"margin-left:5em\"></li> \n\t\t\t\t\t\t<li class=\"nav-flags\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"698\">\n\t\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/us-22.png\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"nav-flags\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"sk.html\" code-editable-id=\"699\">\n\t\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/sk-22.png\"></a>\n\t\t\t\t\t\t</li>\n                    </ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_customHTML": "<section>\n\n    <nav class=\"navbar navbar-dropdown bg-color transparent navbar-fixed-top\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"index.html\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/spotee-ikonka-logo.png\" alt=\"Spotee\" title=\"Spotee best parking app\"></a>\n                        <a class=\"navbar-caption text-white\" href=\"#top\">Spotee</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\">\n                        <li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#extHeader5-1i\" code-editable-id=\"76\">TRAILER</a>\n                        </li>\n                        <li class=\"nav-item dropdown\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#msg-box8-2\" aria-expanded=\"false\" code-editable-id=\"77\">ČO JE SPOTEE</a>\n                        </li>\n                        <li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#msg-box8-h\" aria-expanded=\"false\" code-editable-id=\"78\">AKO TO FUNGUJE</a>\n                        </li>\n                        <li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#extPricingTable1-22\" aria-expanded=\"false\" code-editable-id=\"79\">CENNÍK</a>\n                        </li>\n                        <li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"index.html#extHeader15-2x\" code-editable-id=\"80\">STIAHNI</a>\n                        </li>\n                        <li style=\"margin-left:5em\"></li> \n\t\t\t\t\t\t<li class=\"nav-flags\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html\" code-editable-id=\"81\">\n\t\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/us-22.png\"></a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"nav-flags\">\n                            <a class=\"nav-link link mbr-editable-menu-item\" href=\"sk.html\" code-editable-id=\"82\">\n\t\t\t\t\t\t\t\t<img src=\"@PROJECT_PATH@/assets/images/sk-22.png\"></a>\n\t\t\t\t\t\t</li>\n                    </ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n.hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n\tfont-family: 'Roboto Slab', serif;\n\tfont-size: 30px;\n}\n.navbar-toggler {\n\tcolor: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #ffffff;\n}\n.link, .dropdown-item {\n\tcolor: #ffffff;\n\tfont-family: 'Open Sans', sans-serif;\n}\n.link {\n\tfont-size: 0.85rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.921rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #000000;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #000000!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #000000;\n}\n.bg-color.transparent .link {\n\tcolor: #ffffff;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #c0a375!important;\n}\n.btn {\n\tfont-size: 14px;\n\tfont-family: 'Open Sans', sans-serif;\n}\n.nav-dropdown .nav-flags {\n    display: table-cell;\n    float: none;\n    vertical-align: middle; }\n  .nav-dropdown-sm .nav-flags {\n    display: inline-block;\n    margin-left: 0 !important;\n    padding-left: 0; }\n  .nav-dropdown .nav-flags .link {\n    margin: 0.25em;  /*reduce this number further if needed */\n}\n",
@@ -1391,7 +1392,7 @@
           "title": "What is Spotee?<br>-----------------",
           "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Spotee is the revolutionary application which will solve your daily problems with parking.</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Main Idea, why the app was developed is, &nbsp;that nowadays almost every family have at least 2 cars and problem with parking is more and more crucial. People are wasting often more than 15 minutes to find parking place near their houses, working places or in the downtowns. &nbsp;</span></p><p>All other apps are providing only paid parking places with high hourly rates. Until now we didn't find any service on the market, where people will inform the realtime information about free parking . Main problem is, that only few drivers are willing to provide these information for free.&nbsp;</p><p><b>In our app will meet people, which would like to find the parking place for a minimal costs and on the other side are people, they just leaving their spots and they would like to earn extra money on this.&nbsp;</b><b style=\"font-size: 1.07rem; line-height: 1.5;\">Except this main idea this app will allow you to store vehicle’s parked position. </b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">This app will combine three services: searching for parking spot; earning money with parking spot and saving position of parked car.</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/iphone-x-concept-template-recovered2-2000x755-20.jpg); padding-top: 70px; padding-bottom: 70px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(0, 0, 0);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n\t\t\t\n\t\t\t\t<h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"132\">\n\t\t\t\t\tPrečo pracujeme na vzniku tejto aplikácii?\n\t\t\t\t\t<br><hr>\n\t\t\t\t</h3>\n\t\t\t\t<div class=\"lead mbr-editable-full\" code-editable-id=\"133\"><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n\t\t\t\t\t</span></p><p>Hlavnou myšlienkou aplikácie je pomôcť ľuďom rýchlejšie nájst voľné parkovacie miesto. \n                    <br>V dnešnej dobe má takmer každá rodina minimálne 2 autá a problém s parkovaním je stále väčší a väčší. Ľudia strácajú čas hľadaním parkovacieho miesta v okolí ich bydliska, práce, \n                    <br>či v centre mesta.\n\t\t\t\t\t</p><p>Všetky ostatné aplikácie na trhu poskytujú iba informácie o platených parkovacích miestach, ktoré sú zväčša veľmi drahé a sú s fixnou hodinovou sadzbou. Doposiaľ sme nenašli na trhu žiadnu službu, či aplikáciu, ktorá by informovala ľudí o aktuálnych voľnych parkovacích miestach. Je to dané tým, že iba veľmi málo vodičov je ochotných zdieľať tieto informácie zadarmo.</p>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<br>\n                <br>\n                <br>\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"134\">\n\t\t\t\t\tČo je Spotee?\n\t\t\t\t\t<br><hr>\n\t\t\t\t</h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"135\"><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n\t\t\t\t\t<strong>Spotee je revolučná startup aplikácia, ktorá chce ľuďom pomôcť nájsť voľné parkovacie miesto a tým ušetriť čas.</strong>\n\t\t\t\t</span></p>\n\t\t\t\t\t<p>Aplikácia Spotee zaručí stretnutie ľudí, kotrý hľadajú parkovacie miesto za minimálny poplatok\n                        <br>s ľuďmi, ktorý práve opúšťajú parkovacie miesto a chú si trochu privyrobiť zdieľaním ich miesta. Okrem týchto dvoch hlavných služieb, ponúka naša aplikácia aj možnosť zapamätania si pozície svojho zaparkovaného vozidla. </p>\n\t\t\t\t<p><strong>Spotee tak umožňuje hneď tri služby: </strong>\n                    <br><font size=\"5\">1.</font> Hľadanie voľného parkovacieho miesta\n                    <br><font size=\"5\">2.</font> Privyrábanie si parkovním\n                    <br><font size=\"5\">3.</font> Uloženie si pozície zaparkovaného vozidla</p>\n\t\t\t\t</div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/spotee-co-je-spotee-pozadie.jpg); padding-top: 70px; padding-bottom: 70px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(0, 0, 0);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n\t\t\t\n\t\t\t\t<h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"65\">\n\t\t\t\t\tPrečo pracujeme na vzniku tejto aplikácii?\n\t\t\t\t\t<br><hr>\n\t\t\t\t</h3>\n\t\t\t\t<div class=\"lead mbr-editable-full\" code-editable-id=\"66\"><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n\t\t\t\t\t</span></p><p>Hlavnou myšlienkou aplikácie je pomôcť ľuďom rýchlejšie nájst voľné parkovacie miesto. \n                    <br>V dnešnej dobe má takmer každá rodina minimálne 2 autá a problém s parkovaním je stále väčší a väčší. Ľudia strácajú čas hľadaním parkovacieho miesta v okolí ich bydliska, práce, \n                    <br>či v centre mesta.\n\t\t\t\t\t</p><p>Všetky ostatné aplikácie na trhu poskytujú iba informácie o platených parkovacích miestach, ktoré sú zväčša veľmi drahé a sú s fixnou hodinovou sadzbou. Doposiaľ sme nenašli na trhu žiadnu službu, či aplikáciu, ktorá by informovala ľudí o aktuálnych voľnych parkovacích miestach. Je to dané tým, že iba veľmi málo vodičov je ochotných zdieľať tieto informácie zadarmo.</p>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<br>\n                <br>\n                <br>\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"67\">\n\t\t\t\t\tČo je Spotee?\n\t\t\t\t\t<br><hr>\n\t\t\t\t</h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"68\"><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n\t\t\t\t\t<strong>Spotee je revolučná startup aplikácia, ktorá chce ľuďom pomôcť nájsť voľné parkovacie miesto a tým ušetriť čas.</strong>\n\t\t\t\t</span></p>\n\t\t\t\t\t<p>Aplikácia Spotee zaručí stretnutie ľudí, kotrý hľadajú parkovacie miesto za minimálny poplatok\n                        <br>s ľuďmi, ktorý práve opúšťajú parkovacie miesto a chú si trochu privyrobiť zdieľaním ich miesta. Okrem týchto dvoch hlavných služieb, ponúka naša aplikácia aj možnosť zapamätania si pozície svojho zaparkovaného vozidla. </p>\n\t\t\t\t<p><strong>Spotee tak umožňuje hneď tri služby: </strong>\n                    <br><font size=\"5\">1.</font> Hľadanie voľného parkovacieho miesta\n                    <br><font size=\"5\">2.</font> Privyrábanie si parkovním\n                    <br><font size=\"5\">3.</font> Uloženie si pozície zaparkovaného vozidla</p>\n\t\t\t\t</div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\n.mbr-section-title, p {\n\tcolor: #fff;\n}\n.lead P {\n\ttext-align: center;\n\tfont-family: 'Raleway', sans-serif;\n\tcolor: #ffffff;\n}\n.mbr-section-title {\n\tcolor: #ffffff;\n}\n\nhr\n{   \n    width:30%;\n    margin-top: 0.7em;\n    margin-bottom: 0.7em;\n    border-bottom: 1px solid #ffffff;\n    padding: 0; \n    \n}\n",
@@ -1493,7 +1494,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/phone-1907x2306-86.png",
+              "src": "@PROJECT_PATH@/assets/images/spotee-3-revolutionary-services-1907x2306.png",
               "active": true,
               "link": "",
               "alt": "",
@@ -1604,7 +1605,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/01a-searching-right-1400x1176-9.jpg",
+              "src": "@PROJECT_PATH@/assets/images/find-parking-place-spotee-how-it-works-1400x1176.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1640,8 +1641,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/02a-search-1b-2000x1333-14-2000x1333-35.jpg",
-                "image": "@PROJECT_PATH@/assets/images/02a-search-1b-2000x1333-14.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/searching-service-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/searching-service-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1650,8 +1651,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/02a-search-2b-2000x1333-54-2000x1333-86.jpg",
-                "image": "@PROJECT_PATH@/assets/images/02a-search-2b-2000x1333-54.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/searching-service-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/searching-service-1-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1660,8 +1661,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/02c-search-3b-2000x1333-58-2000x1333-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/02c-search-3b-2000x1333-58.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/searching-service-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/searching-service-2-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1670,8 +1671,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/02d-search-4b-2000x1333-38-2000x1333-7.jpg",
-                "image": "@PROJECT_PATH@/assets/images/02d-search-4b-2000x1333-38.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/searching-service-3-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/searching-service-3-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1750,7 +1751,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/01b-earning-left-1400x1176-12.jpg",
+              "src": "@PROJECT_PATH@/assets/images/earn-extra-money-spotee-how-it-works-1400x1176.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1786,8 +1787,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/03a-earn-1-2000x1333-63-2000x1333-91.jpg",
-                "image": "@PROJECT_PATH@/assets/images/03a-earn-1-2000x1333-63.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/earning-service-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/earning-service-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1796,8 +1797,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/03b-earn-2-2000x1333-11-2000x1333-13.jpg",
-                "image": "@PROJECT_PATH@/assets/images/03b-earn-2-2000x1333-11.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/earning-service-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/earning-service-1-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1806,8 +1807,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/03c-earn-3-2000x1333-27-2000x1333-98.jpg",
-                "image": "@PROJECT_PATH@/assets/images/03c-earn-3-2000x1333-27.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/earning-service-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/earning-service-2-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1816,8 +1817,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/03d-earn-4-2000x1333-46-2000x1333-96.jpg",
-                "image": "@PROJECT_PATH@/assets/images/03d-earn-4-2000x1333-46.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/earning-service-3-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/earning-service-3-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1896,7 +1897,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/01c-saving-right-1400x1176-54.jpg",
+              "src": "@PROJECT_PATH@/assets/images/saving-position-service-spotee-how-it-works-1400x1176.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1932,8 +1933,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/04a-park-1-2000x1333-58-2000x1333-84.jpg",
-                "image": "@PROJECT_PATH@/assets/images/04a-park-1-2000x1333-58.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/saving-position-service-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/saving-position-service-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1942,8 +1943,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/04b-park-2-2000x1333-72-2000x1333-17.jpg",
-                "image": "@PROJECT_PATH@/assets/images/04b-park-2-2000x1333-72.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sluzba-ukladania-pozicie-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sluzba-ukladania-pozicie-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1952,8 +1953,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/04c-park-3-2000x1333-62-2000x1333-36.jpg",
-                "image": "@PROJECT_PATH@/assets/images/04c-park-3-2000x1333-62.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/saving-position-service-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/saving-position-service-1-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1962,8 +1963,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/04d-park-4-2000x1333-0-2000x1333-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/04d-park-4-2000x1333-0.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sluzba-ukladania-pozicie-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sluzba-ukladania-pozicie-1-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2012,27 +2013,36 @@
           "text": "ČÍM VIACEJ ĽUDÍ BUDE POZNAŤ TÚTO APLIKÁCIU, TÝM VIACEJ ĽUĎOM AJ POMÔŽEME<br><br>TAK JU ZDIEĽAJ SO VŠETKÝMI"
         },
         {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extPricingTable1",
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            }
+          },
           "_params": {
             "showTitle": true,
-            "showSubtitle": false,
-            "showIcons": true,
+            "showSubtitle": true,
             "firstType": "",
-            "secondType": "",
-            "thirdType": "hidden",
+            "secondType": "hidden",
+            "thirdType": "",
             "fourthType": "",
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "showButtons": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff;",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2041,93 +2051,54 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "How much these services costs?",
-          "subtitle": "Pricing table with four columns and solid color background.",
-          "label1": "HOT!",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-extFeatures2",
-              "linkInNewWindow": false,
-              "name": "search",
-              "family": "linecons",
-              "active": true,
-              "size": 0,
-              "color": "#a97c39"
-            }
-          },
+          "description1": "forever",
+          "description2": "More details",
+          "description3": "service fee",
+          "description4": "forever",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Simple, straightforward pricing",
+          "subtitle": "Searching service and Saving position service are absolutely for free.<br>",
           "title1": "SEARCHING",
-          "subtitle1": "Service",
-          "currency1": "€",
-          "price1": "0",
-          "period1": "monthly",
-          "description1": "Use our parking service, where you can search for realtime free parking spaces near your wished position.<br><br>",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Searching for parking Spotee</li><li class=\"list-group-item\">Creating Requests</li><li class=\"list-group-item\">Realtime information about Creators</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
-          "label2": "HOT!",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-extFeatures2",
-              "linkInNewWindow": false,
-              "name": "banknote",
-              "family": "linecons",
-              "active": true,
-              "size": 0,
-              "color": "#a97b38"
-            }
-          },
-          "title2": "EARNING",
-          "subtitle2": "Service",
-          "currency2": "%",
-          "price2": "10-25",
-          "period2": "monthly",
-          "description2": "Use our earning service and you can earn extra money every time you leave your place.<br>You don't need to own nothing,&nbsp;just your vehicle.<br>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Creating parking Spotee&nbsp; &nbsp;</li><li class=\"list-group-item\">Checking Requests</li><li class=\"list-group-item\">Realtime information about Requestors</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
-          "label3": "HOT!",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-extFeatures2",
-              "name": "layers",
-              "size": 0,
-              "color": "#666666",
-              "family": "et-line"
-            }
-          },
-          "title3": "PREMIUM",
-          "subtitle3": "Description",
-          "currency3": "$",
-          "price3": "10",
-          "period3": "monthly",
-          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
-          "label4": "HOT!",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont-extFeatures2",
-              "linkInNewWindow": false,
-              "name": "location",
-              "family": "linecons",
-              "active": true,
-              "size": 0,
-              "color": "#ab7b34"
-            }
-          },
+          "title2": "BUSINESS",
+          "title3": "EARNING",
           "title4": "SAVING POSITION",
+          "subtitle1": "Service",
+          "subtitle2": "Description",
+          "subtitle3": "Service",
           "subtitle4": "Service",
-          "currency4": "€",
-          "price4": "0",
-          "period4": "monthly",
-          "description4": "Use our third undependent saving position service to store your position with details and timer.<br><br>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Storing positions&nbsp;&nbsp;&nbsp;&nbsp;</li><li class=\"list-group-item\">Storing detailed information</li><li class=\"list-group-item\">Using timer<br></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
-          "_customCSS": ".mbr-price-figure {\n\tfont-size: 48px;\n}\n",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full extPricingTable1\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"66\">CENNÍK SLUŽIEB</h3>\n                  \n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"67\">HOT!</div>\n                      <div class=\"card-title\">\n                        <span class=\"iconBg\"><span class=\"icon\"><span class=\"li_search mbr-iconfont-extFeatures2\" style=\"color: rgb(169, 124, 57);\"></span></span></span>\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"68\">VYHĽADÁVACIA</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"69\">Služba</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"70\">€</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"71\">0</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"72\">mesačne</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"73\">Použi našu parkovaciu službu, kde môžeš vyhľadávať voľné parkovacie miesto blízko tvojej želanej pozície.<br><br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"74\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Aktuálne informácie o voľných miestach</li><li class=\"list-group-item\">Hľadanie voľného parkovacieho miesta</li><li class=\"list-group-item\">Vytváranie žiadostí na zaparkovanie</li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"75\">HOT!</div>\n                      <div class=\"card-title\">\n                      <span class=\"iconBg\"><span class=\"icon\"><span class=\"li_banknote mbr-iconfont-extFeatures2\" style=\"color: rgb(169, 123, 56);\"></span></span></span>\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"76\">ZARÁBAJÚCA</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"77\">Služba</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"78\">%</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"79\">20</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"80\">mesačne</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"81\">Používaj našu zarábajúcu službu a môžeš zarábať extra peniaze vždy keď opúšťaš svoje parkovaci emiesto.<br>Nepotrebuješ nič vlastnť, iba svoje vozidlo.<br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"82\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Aktuálne informácie o dopytoch na zaparkovanie</li><li class=\"list-group-item\">Vytváranie vlastných Spotee</li><li class=\"list-group-item\">Kontrolovanie žiadostí o zaparkovanie</li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"83\">HOT!</div>\n                      <div class=\"card-title\">\n                        <span class=\"iconBg\"><span class=\"icon\"><span class=\"li_location mbr-iconfont-extFeatures2\" style=\"color: rgb(171, 123, 52);\"></span></span></span>\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"84\">UKLADAJÚCA</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"85\">Služba</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"86\">€</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"87\">0</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"88\">mesačne</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"89\">Použi našu tretiu úplne nezávislú službu na ukladanie pozície zaparkovaného vozidla s detailami alebo časovačom.<br><br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"90\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Ukladanie pozície</li><li class=\"list-group-item\">Ukladanie detailných informácií</li><li class=\"list-group-item\">Používanie časovača<br></li></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n          </div>\n    </div>\n</section>",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "",
+          "currency2": "$",
+          "currency3": "",
+          "currency4": "",
+          "price1": "FREE",
+          "price2": "0",
+          "price3": "20%",
+          "price4": "FREE",
+          "period1": "",
+          "period2": "/mo.",
+          "period3": "",
+          "period4": "",
+          "list1": "",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"></ul>",
+          "list4": "",
+          "_name": "pricing-table2",
+          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"277\">Jednoduchý, jasný cenník<br></h3>\n                  <small class=\"mbr-section-subtitle mbr-editable-content\" style=\"color: rgb(40, 50, 78); font-size: 22px;\" code-editable-id=\"278\"><br>Veríme v jednoduché a poctivé stanovenie ceny&nbsp;<br></small>\n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"279\"><span style=\"font-weight: normal;\">VYHĽADÁVACIA</span></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 18px;\" code-editable-id=\"280\">služba</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"281\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"282\"><strong>ZADARMO</strong></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"283\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"284\"><strong>navždy</strong></small>\n                      </div>\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"285\"><span style=\"font-weight: normal;\">ZARABAJÚCA</span></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 18px;\" code-editable-id=\"286\">služba</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"287\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"288\"><strong>20%</strong></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"289\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"290\"><strong>ako servisný poplatok</strong></small>\n                      </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"291\"><span style=\"font-weight: normal;\">UKLADANIE POZÍCIE</span></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" style=\"color: rgb(239, 239, 239); font-size: 18px;\" code-editable-id=\"292\">služba</small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"293\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"294\"><strong>ZADARMO</strong></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"295\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" style=\"color: rgb(239, 239, 239);\" code-editable-id=\"296\"><strong>navždy</strong></small>\n                      </div>\n                    </div>\n                </div>\n            </div>\n          </div>\n    </div>\n\n</section>",
+          "_customCSS": "@import url(undefined);\n.mbr-plan-header, .mbr-plan-body {\n\tbackground-color: #303c4c;/*#263C64;*/\n}\nul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term {\n\tcolor: #ffffff;\n}\n.mbr-plan {\n\tborder-color: #e8e8e8;\n}\n.mbr-plan .list-group-item {\n\tborder-color: #cfcfcf;\n}\n.mbr-plan-title {\n\tfont-size: 32px;\n}\n.mbr-price-figure {\n\tfont-size: 64px;\n}\n.mbr-plan-subtitle {\n\tfont-size: 22px;\n\tcolor: #28324e;\n}\n.mbr-plan-price-desc {\n\tcolor: #28324e;\n\tfont-size: 22px;\n}\n",
+          "_customTemplate": true,
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customTemplate": true,
-          "_anchor": "extPricingTable1-3g"
+          "_anchor": "pricing-table2-46"
         },
         {
           "_styles": {
@@ -2135,7 +2106,8 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "32px"
             },
             ".lead P": {
               "color": "#ffffff"
@@ -2148,10 +2120,10 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-3h",
+          "_anchor": "msg-box8-47",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -2168,7 +2140,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Detailné informácie o platení poplatkov za používanie služby na zarábanie<br>",
+          "title": "Platíš poplatky len za trazakcie, ktoré sú ukončené<br>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -2179,16 +2151,17 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#000000"
             }
           },
-          "_anchor": "content1-3i",
+          "_anchor": "content1-48",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "5",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Za prvý mesiac používania tejto služby vôbec neplatíš, </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ak chceš ale použiť službu aj nasledujúci mesiac, musíš najprv zaplatiť poplatok za používanie predchádzajúceho obdobia.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Pričom tento poplatok je vypočítaný z čiastky, koľko si zarobil za predchádzajúce obdobie.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Percento poplatkov začína na 25% &nbsp;a ide až po 10%. </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Toto percento zavisí od celkovej sumy koľko si zarobil s touto aplikáciou, </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">to znamená, že čím viac budeš využívať túto aplikáciu, tím nižšie percento budeš platiť.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ďaľším spôsobom ako si znížiť toto percento je, </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">že budeš zdieľať túto aplikácia so svojimi priateľmi, kolegami alebo známymi. &nbsp;&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Príklad ako sú vypočítané mesačné poplatky:</b></span></p><p>V predchádzajúcom období si využíval túto službu a celkovo si zarobil 20 Eur.</p><p>Ak chceš využívať túto službu aj ďaľší mesiac, musíš najprv zaplatiť poplatok 5 Eur (20 Eur x 25%). v úvodnej úrovni, </p><p>alebo len 2 Eura &nbsp;(20 Eur x 10%) ak už si v poslednej úrovni.</p><p>Všetky ostatné služby sú úplne zadarmo a môžeš ich využívať stále, aj keď nemáš zaplatený tento poplatok.</p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Používaj naše služby pre vyhľadávanie parkovacieho miesta a ukladania pozácie úplne zadaramo.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Užívatelia, ktorý si chcú aj privyrobiť zdieľaním ich miesta,môžu použiť našu druhú, zarábajúcu službu.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Týmto užívateľom účtujeme servisný poplatok s pevnou sadzbou 20%, ktorý je účtovaný až po ukončení tranzakcie.</span></p>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2213,7 +2186,7 @@
             "typeSpeed": 60,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader2-bg-2000x1328-38.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/spotee-download-background-2000x1328.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2265,11 +2238,46 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-4b",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "SLEDUJ NÁS",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/profile.php?id=100011083213710\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCEBJRwJ9oCRc2XmD8Mf_52w\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-3k",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "contacts1-4c",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
@@ -2284,7 +2292,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/app-icon-v22-with-text-128x128-7.png",
+              "src": "@PROJECT_PATH@/assets/images/spotee_-_park_&_earn_icon_logo-128x128.png",
               "width": 128,
               "active": true,
               "link": "www.spoteeapps..com",
@@ -2298,93 +2306,9 @@
               "size": 0
             }
           },
-          "text1": "<p><strong>Address</strong><br><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\">Smartee</font><font color=\"white\">Apps s.r.o.</font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"WHITE\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"BLUE\"></font></a><b><a href=\"http://\"></a></b><br>Poniklecova 24,<br>841 07 Bratislava<br>Slovak Republic</p>",
-          "text2": "<p></p><p><strong>Contacts</strong><br>\n<a href=\"mailto:smarteeapps@gmail.com\" class=\"text-white\">Email: smarteeapps@gmail.com</a></p><br><p><br>&nbsp;&nbsp;&nbsp;&nbsp;<br></p><p></p>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"index.html#extHeader15-2x\" class=\"text-white\">Download from Android store</a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"index.html#extHeader15-2x\" class=\"text-white\">Download from iTunes store</a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"index.html#extHeader15-2x\" class=\"text-white\">Download from Windows store</a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "font-size": "18px"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-3q",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#303030",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "showButtons": true,
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": ""
-          },
-          "title": "Jednoduchý&nbsp;",
-          "subtitle": "Pricing table with four columns and solid color background.",
-          "label1": "HOT!",
-          "title1": "STANDARD",
-          "subtitle1": "Description",
-          "currency1": "€",
-          "price1": "20",
-          "period1": "",
-          "description1": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Kredit 20 Eur &nbsp;+ 3 Eur</li><li class=\"list-group-item\">Extra kredit 3 Eur (15%)</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ZAKÚP HNEĎ</a>",
-          "label2": "HOT!",
-          "title2": "BUSINESS",
-          "subtitle2": "Description",
-          "currency2": "€",
-          "price2": "100",
-          "period2": "",
-          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Kredit 100 Eur + 50 Eur</li><li class=\"list-group-item\">Extra kredit 50 Eur (50%)</li><li class=\"list-group-item\">dddd&nbsp;</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ZAKÚP HNEĎ</a>",
-          "label3": "HOT!",
-          "title3": "PREMIUM",
-          "subtitle3": "Description",
-          "currency3": "€",
-          "price3": "500",
-          "period3": "",
-          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Kredit 500 Eur + 500 Eur</li><li class=\"list-group-item\">Extra kredit 500 Eur (100%)</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ZAKÚP HNEĎ</a>",
-          "label4": "HOT!",
-          "title4": "UNLIMITED",
-          "subtitle4": "Description",
-          "currency4": "€",
-          "price4": "1000",
-          "period4": "",
-          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Kredit 1.000 Eur + 999:000 Eur</li><li class=\"list-group-item\">Extra kredit 999 000 Eur (99 900%)</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ZAKÚP HNEĎ</a>"
+          "text1": "<p><strong>Adresa</strong><br><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\">Smartee</font><font color=\"white\">Apps s.r.o.</font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"WHITE\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"#0094da\"></font></a><a href=\"http://\" style=\"font-weight: bold;\"><font color=\"BLUE\"></font></a><b><a href=\"http://\"></a></b><br>Poniklecova 24,<br>841 07 Bratislava<br>Slovak Republic</p>",
+          "text2": "<p></p><p><strong>Kontakty</strong><br>\n<a href=\"mailto:smarteeapps@gmail.com\" class=\"text-white\">Email: smarteeapps@gmail.com</a></p><br><p><br>&nbsp;&nbsp;&nbsp;&nbsp;<br></p><p></p>",
+          "text3": "<p><strong>Linky</strong><br>\n<a href=\"index.html#extHeader15-2x\">Stiahni aplikáciu pre Android</a><a href=\"index.html#extHeader15-2x\" class=\"text-white\"></a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"sk.html#extHeader15-3j\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"index.html#extHeader15-2x\">Stiahni aplikáciu pre iPhone</a><a href=\"index.html#extHeader15-2x\" class=\"text-white\"></a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"index.html#extHeader15-2x\">Stiahni aplikáciu pre Windows</a><a href=\"index.html#extHeader15-2x\"></a><a href=\"index.html#extHeader15-2x\"></a><a href=\"index.html#extHeader15-2x\" class=\"text-white\"></a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\"></a><a href=\"index.html#contacts1-1y\" class=\"text-info\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
       ]
     }

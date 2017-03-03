@@ -829,11 +829,6 @@ h6,
 #social-buttons4-45 .btn-social {
   color: #fff;
 }
-#contacts1-1y P {
-  color: #ffffff;
-  font-family: 'Indie Flower', cursive;
-  font-size: 18px;
-}
 #menu-33 {
   
   
@@ -920,6 +915,11 @@ h6,
 #menu-33 .nav-dropdown .nav-flags .link {
   margin: 0.25em;
   /*reduce this number further if needed */
+}
+#contacts1-4c P {
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 18px;
 }
 
 
@@ -1083,24 +1083,72 @@ h6,
 #social-buttons3-3f .btn-social {
   color: #fff;
 }
-#extPricingTable1-3g .mbr-price-figure {
-  font-size: 48px;
+#pricing-table2-46 .mbr-plan-header,
+#pricing-table2-46 .mbr-plan-body {
+  background-color: #f4f4f4;
 }
-#msg-box8-3h .mbr-section-title,
-#msg-box8-3h p {
-  color: #fff;
+#pricing-table2-46 ul,
+#pricing-table2-46 .mbr-plan-title,
+#pricing-table2-46 .mbr-price-value,
+#pricing-table2-46 .mbr-price-figure,
+#pricing-table2-46 .mbr-price-term {
+  color: #28262b;
 }
-#msg-box8-3h .mbr-section-title {
-  color: #000000;
+#pricing-table2-46 .mbr-plan {
+  border-color: #e8e8e8;
 }
-#msg-box8-3h .lead P {
+#pricing-table2-46 .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#pricing-table2-46 .mbr-plan-header,
+#pricing-table2-46 .mbr-plan-body {
+  background-color: #303c4c;
+  /*#263C64;*/
+}
+#pricing-table2-46 ul,
+#pricing-table2-46 .mbr-plan-title,
+#pricing-table2-46 .mbr-price-value,
+#pricing-table2-46 .mbr-price-figure,
+#pricing-table2-46 .mbr-price-term {
   color: #ffffff;
 }
-#msg-box8-3h .lead UL {
+#pricing-table2-46 .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-46 .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#pricing-table2-46 .mbr-plan-title {
+  font-size: 32px;
+}
+#pricing-table2-46 .mbr-price-figure {
+  font-size: 64px;
+}
+#pricing-table2-46 .mbr-plan-subtitle {
+  font-size: 22px;
+  color: #28324e;
+}
+#pricing-table2-46 .mbr-plan-price-desc {
+  color: #28324e;
+  font-size: 22px;
+}
+#msg-box8-47 .mbr-section-title,
+#msg-box8-47 p {
+  color: #fff;
+}
+#msg-box8-47 .mbr-section-title {
+  color: #000000;
+  font-size: 32px;
+}
+#msg-box8-47 .lead P {
+  color: #ffffff;
+}
+#msg-box8-47 .lead UL {
   text-align: center;
 }
-#content1-3i P {
+#content1-48 P {
   text-align: center;
+  color: #000000;
 }
 #extHeader15-3j P {
   font-size: 24px;
@@ -1108,14 +1156,12 @@ h6,
 #extHeader15-3j .display-2 {
   font-size: 72px;
 }
-#contacts1-3k P {
+#social-buttons4-4b .mbr-section-title,
+#social-buttons4-4b .btn-social {
+  color: #fff;
+}
+#contacts1-4c P {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
   font-size: 18px;
-}
-#pricing-table1-3q .mbr-section__container .mbr-section-title {
-  color: #fff;
-}
-#pricing-table1-3q .mbr-section__container .mbr-section-subtitle {
-  color: #a0a0a0;
 }
